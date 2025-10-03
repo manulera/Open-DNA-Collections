@@ -84,7 +84,7 @@ for gb_file in gb_files:
             "right_overhang": right_ovhg,
             "longest_feature_type": longest_feature_type,
             "info": info,
-            "path": gb_file,
+            "path": gb_file.replace("../", ""),
         }
     )
 df = pd.DataFrame(table)
@@ -119,3 +119,10 @@ for pair in pairs:
 
 # Get all linear paths from the first to the last node
 paths = list(nx.all_simple_paths(G, source=overhangs[0], target=overhangs[-1]))
+
+# Print unique values of longest_feature_type and collection
+print("\nUnique longest feature types:")
+print(df["longest_feature_type"].unique())
+
+print("\nUnique collections:")
+print(df["collection"].unique())

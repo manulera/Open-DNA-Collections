@@ -1,385 +1,385 @@
 collection,id,plasmid_name,left_overhang,right_overhang,longest_feature_type,info,path
-Ecoli Nanobody Toolkit,T3C_Linker14,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/T3C_Linker14.gb
-Ecoli Nanobody Toolkit,BC_RJ_SD8,,TACT,AATG,CDS,,../Ecoli Nanobody Toolkit/genbank_seq/BC_RJ_SD8.gb
-Ecoli Nanobody Toolkit,T1T3_LgBit,,CCAT,TCCA,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/T1T3_LgBit.gb
-Ecoli Nanobody Toolkit,EF_TermT7,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/EF_TermT7.gb
-Ecoli Nanobody Toolkit,CD_eGFP,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/CD_eGFP.gb
-Ecoli Nanobody Toolkit,T1T3_T7Nwt_STOP,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/T1T3_T7Nwt_STOP.gb
-Ecoli Nanobody Toolkit,BT1_RJ_B34_6H_TEVc,,TACT,CCAT,linker,,../Ecoli Nanobody Toolkit/genbank_seq/BT1_RJ_B34_6H_TEVc.gb
-Ecoli Nanobody Toolkit,CD_ZB,,AATG,AGGT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/CD_ZB.gb
-Ecoli Nanobody Toolkit,T4T5_T7Cwt_STOP,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/T4T5_T7Cwt_STOP.gb
-Ecoli Nanobody Toolkit,CD_NbLag2 (eGFP),,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/CD_NbLag2 (eGFP).gb
-Ecoli Nanobody Toolkit,CD_NbVHHV,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/CD_NbVHHV.gb
-Ecoli Nanobody Toolkit,T3C_LLinkerN,,TCCA,AATG,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/T3C_LLinkerN.gb
-Ecoli Nanobody Toolkit,T4T5_SmBit,,TTCG,CGGC,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/T4T5_SmBit.gb
-Ecoli Nanobody Toolkit,CD_FRB,,AATG,AGGT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/CD_FRB.gb
-Ecoli Nanobody Toolkit,CD_NbVHHE,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/CD_NbVHHE.gb
-Ecoli Nanobody Toolkit,AB_araCpBADv3,,GGAG,TACT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/AB_araCpBADv3.gb
-Ecoli Nanobody Toolkit,DT4_Linker14,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/DT4_Linker14.gb
-Ecoli Nanobody Toolkit,CD_NbB1,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/CD_NbB1.gb
-Ecoli Nanobody Toolkit,CD_ZBn,,AATG,AGGT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/CD_ZBn.gb
-Ecoli Nanobody Toolkit,T1T3_NT7pd ,,CCAT,TCCA,CDS,,../Ecoli Nanobody Toolkit/genbank_seq/T1T3_NT7pd .gb
-Ecoli Nanobody Toolkit,BT1_RJ_SD8_6H_TEVc,,TACT,CCAT,linker,,../Ecoli Nanobody Toolkit/genbank_seq/BT1_RJ_SD8_6H_TEVc.gb
-Ecoli Nanobody Toolkit,AB_araCpBADv2,,GGAG,TACT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/AB_araCpBADv2.gb
-Ecoli Nanobody Toolkit,CD_LuxAB,,AATG,AGGT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/CD_LuxAB.gb
-Ecoli Nanobody Toolkit,BT1_RJ_SD5,,TACT,CCAT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/BT1_RJ_SD5.gb
-Ecoli Nanobody Toolkit,BT1_RJ_BCD2_6H_TEVc,,TACT,CCAT,linker,,../Ecoli Nanobody Toolkit/genbank_seq/BT1_RJ_BCD2_6H_TEVc.gb
-Ecoli Nanobody Toolkit,T3C_MLinkerN,,TCCA,AATG,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/T3C_MLinkerN.gb
-Ecoli Nanobody Toolkit,CD_FKBP,,AATG,AGGT,CDS,,../Ecoli Nanobody Toolkit/genbank_seq/CD_FKBP.gb
-Ecoli Nanobody Toolkit,BC_RBS_UTRcfps,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/BC_RBS_UTRcfps.gb
-Ecoli Nanobody Toolkit,BT1_RBS_UTRcfps,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/BT1_RBS_UTRcfps.gb
-Ecoli Nanobody Toolkit,T1T3_T7Nev,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/T1T3_T7Nev.gb
-Ecoli Nanobody Toolkit,AB_pKatPu,,GGAG,TACT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/AB_pKatPu.gb
-Ecoli Nanobody Toolkit,DT4_MLinkerC,,AGGT,TTCG,syntax,,../Ecoli Nanobody Toolkit/genbank_seq/DT4_MLinkerC.gb
-Ecoli Nanobody Toolkit,T3C_Linker28,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/T3C_Linker28.gb
-Ecoli Nanobody Toolkit,DT4_Linker7,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/DT4_Linker7.gb
-Ecoli Nanobody Toolkit,T3C_Linker7,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/T3C_Linker7.gb
-Ecoli Nanobody Toolkit,BC_RJ_SD5,,TACT,AATG,CDS,,../Ecoli Nanobody Toolkit/genbank_seq/BC_RJ_SD5.gb
-Ecoli Nanobody Toolkit,T4T5_CT7,,TTCG,CGGC,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/T4T5_CT7.gb
-Ecoli Nanobody Toolkit,BT1_RJ_SD8,,TACT,CCAT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/BT1_RJ_SD8.gb
-Ecoli Nanobody Toolkit,CD_ZA,,AATG,AGGT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/CD_ZA.gb
-Ecoli Nanobody Toolkit,AB_pKat,,GGAG,TACT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/AB_pKat.gb
-Ecoli Nanobody Toolkit,DT4_LLinkerC,,AGGT,TTCG,syntax,,../Ecoli Nanobody Toolkit/genbank_seq/DT4_LLinkerC.gb
-Ecoli Nanobody Toolkit,CD_W25,,AATG,AGGT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/CD_W25.gb
-Ecoli Nanobody Toolkit,CD_W276,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/CD_W276.gb
-Ecoli Nanobody Toolkit,AB_pBAD,,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/AB_pBAD.gb
-Ecoli Nanobody Toolkit,AB_araCpBAD,,GGAG,TACT,misc_feature,,../Ecoli Nanobody Toolkit/genbank_seq/AB_araCpBAD.gb
-Ecoli Nanobody Toolkit,CD_NbLag14 (eGFP),,,,,No edges found,../Ecoli Nanobody Toolkit/genbank_seq/CD_NbLag14 (eGFP).gb
-Ecoli Nanobody Toolkit,T1T3_NT7pdo ,,CCAT,TCCA,CDS,,../Ecoli Nanobody Toolkit/genbank_seq/T1T3_NT7pdo .gb
-Open Reporters Collection,ODC_0089,gfasPurple/gfasCP Biobrick K1033918,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0089.gb
-Open Reporters Collection,ODC_0099,eechGFP2,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0099.gb
-Open Reporters Collection,ODC_0088,cjBlue/ BioBrick K592011,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0088.gb
-Open Reporters Collection,ODC_0098,eechGFP1,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0098.gb
-Open Reporters Collection,ODC_0104,amilRFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0104.gb
-Open Reporters Collection,ODC_0114,Luciferase [Luciola cruciata] (Japanese firefly),AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0114.gb
-Open Reporters Collection,ODC_0093,efasCFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0093.gb
-Open Reporters Collection,ODC_0100,eechGFP3,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0100.gb
-Open Reporters Collection,ODC_0097,amilGFP Biobrick K592010,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0097.gb
-Open Reporters Collection,ODC_0110,amajLime/amajCFP/amFP486 BioBrick K1033916,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0110.gb
-Open Reporters Collection,ODC_0101,efasGFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0101.gb
-Open Reporters Collection,ODC_0096,afraGFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0096.gb
-Open Reporters Collection,ODC_0111,EiraCFP Biobrick J97000,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0111.gb
-Open Reporters Collection,ODC_0105,meffRed/meffRFP Biobricks K592012,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0105.gb
-Open Reporters Collection,ODC_0115,Renilla luciferase,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0115.gb
-Open Reporters Collection,ODC_0092,meleCFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0092.gb
-Open Reporters Collection,ODC_0102,gfasGFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0102.gb
-Open Reporters Collection,ODC_0095,aacuGFP2,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0095.gb
-Open Reporters Collection,ODC_0112,HRP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0112.gb
-Open Reporters Collection,ODC_0106,pporRFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0106.gb
-Open Reporters Collection,ODC_0116,beta-lactamase,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0116.gb
-Open Reporters Collection,ODC_0091,mmilCFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0091.gb
-Open Reporters Collection,ODC_0107,meleRFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0107.gb
-Open Reporters Collection,ODC_0117,Calf Intestine Alkaline phosphatase (CIAP),AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0117.gb
-Open Reporters Collection,ODC_0090,meffCFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0090.gb
-Open Reporters Collection,ODC_0103,plamGFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0103.gb
-Open Reporters Collection,ODC_0094,aacuGFP1,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0094.gb
-Open Reporters Collection,ODC_0113,Firefly Luciferase [Photinus pyralis] (Fluc),AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0113.gb
-Open Reporters Collection,ODC_0108,scubRFP,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0108.gb
-Open Reporters Collection,ODC_0109,eforRed/eforCP Biobrick K592012,AATG,GCTT,CDS,,../Open Reporters Collection/Plasmids_Genbank/ODC_0109.gb
-Molecular Diagnostics Toolkit,ODC_0219,Pfu_Ssod7 HiFi,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0219.gb
-Molecular Diagnostics Toolkit,ODC_0239,TEV,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0239.gb
-Molecular Diagnostics Toolkit,ODC_0229,orfB3,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0229.gb
-Molecular Diagnostics Toolkit,ODC_0238,EcRNAseH,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0238.gb
-Molecular Diagnostics Toolkit,ODC_0228,orfA2,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0228.gb
-Molecular Diagnostics Toolkit,ODC_0218,MERScontrol,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0218.gb
-Molecular Diagnostics Toolkit,ODC_0237,TthRNAseH,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0237.gb
-Molecular Diagnostics Toolkit,ODC_0227,orfA1,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0227.gb
-Molecular Diagnostics Toolkit,ODC_0233,Bst-LF,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0233.gb
-Molecular Diagnostics Toolkit,ODC_0223,OMMLV,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0223.gb
-Molecular Diagnostics Toolkit,ODC_0232,SARSContol,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0232.gb
-Molecular Diagnostics Toolkit,ODC_0222,HIVRT,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0222.gb
-Molecular Diagnostics Toolkit,ODC_0236,PBCV-1_ligase,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0236.gb
-Molecular Diagnostics Toolkit,ODC_0226,EcPPA,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0226.gb
-Molecular Diagnostics Toolkit,ODC_0231,orfN5,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0231.gb
-Molecular Diagnostics Toolkit,ODC_0221,Ecoli_opt_RNAseInhib,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0221.gb
-Molecular Diagnostics Toolkit,ODC_0235,UvsX,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0235.gb
-Molecular Diagnostics Toolkit,ODC_0225,RNAseInhib,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0225.gb
-Molecular Diagnostics Toolkit,ODC_0234,Bsu,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0234.gb
-Molecular Diagnostics Toolkit,ODC_0224,OpenVent,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0224.gb
-Molecular Diagnostics Toolkit,ODC_0230,orfE4,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0230.gb
-Molecular Diagnostics Toolkit,ODC_0220,gp32,,,,No edges found,../Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0220.gb
-Open Yeast Collection,ODC_0318,ScKanR-marker,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0318.gb
-Open Yeast Collection,ODC_0258,AB_Pp-pAOX1,GGAG,TACT,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0258.gb
-Open Yeast Collection,ODC_0248,Sc-pMFalpha2,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0248.gb
-Open Yeast Collection,ODC_0308,PpHR3'-ENO,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0308.gb
-Open Yeast Collection,ODC_0268,limonene-3-hydroxylase,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0268.gb
-Open Yeast Collection,ODC_0328,OYC-high-copy-origin,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0328.gb
-Open Yeast Collection,ODC_0278,Sc-tENO2,GCTT,CGCT,,No features found,../Open Yeast Collection/Plasmids_Genbank/ODC_0278.gb
-Open Yeast Collection,ODC_0269,S-linalool synthase,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0269.gb
-Open Yeast Collection,ODC_0329,OYC-eforRed-dropout,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0329.gb
-Open Yeast Collection,ODC_0279,Sc-tPRM9,GCTT,CGCT,terminator,,../Open Yeast Collection/Plasmids_Genbank/ODC_0279.gb
-Open Yeast Collection,ODC_0319,ScLEU2-marker,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0319.gb
-Open Yeast Collection,ODC_0259,ScLYS2,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0259.gb
-Open Yeast Collection,ODC_0249,Sc-pRPL18B,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0249.gb
-Open Yeast Collection,ODC_0309,PpHR5'-AOXTT,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0309.gb
-Open Yeast Collection,ODC_0312,ScARS_CEN,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0312.gb
-Open Yeast Collection,ODC_0252,Sc-pTDH3,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0252.gb
-Open Yeast Collection,ODC_0266,FPP synthase,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0266.gb
-Open Yeast Collection,ODC_0326,OYC-CamR,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0326.gb
-Open Yeast Collection,ODC_0295,AConR-end,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0295.gb
-Open Yeast Collection,ODC_0285,AConL1,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0285.gb
-Open Yeast Collection,ODC_0276,Sc-tUBX6,GCTT,CGCT,terminator,,../Open Yeast Collection/Plasmids_Genbank/ODC_0276.gb
-Open Yeast Collection,ODC_0242,Sc-pCUP1,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0242.gb
-Open Yeast Collection,ODC_0302,ScHR3'-HO,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0302.gb
-Open Yeast Collection,ODC_0262,Cre,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0262.gb
-Open Yeast Collection,ODC_0322,ScURA3-marker,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0322.gb
-Open Yeast Collection,ODC_0291,AConR2,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0291.gb
-Open Yeast Collection,ODC_0316,ScHIS3-marker,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0316.gb
-Open Yeast Collection,ODC_0256,AB_Sc-pCYC1,GGAG,TACT,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0256.gb
-Open Yeast Collection,ODC_0246,Sc-pMF2,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0246.gb
-Open Yeast Collection,ODC_0306,PpHR3'-RGI2,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0306.gb
-Open Yeast Collection,ODC_0281,Sc-tTDH1,GCTT,CGCT,terminator,,../Open Yeast Collection/Plasmids_Genbank/ODC_0281.gb
-Open Yeast Collection,ODC_0272,ScGal4-DNA-BD,TCCA,AATG,CDS,,../Open Yeast Collection/Plasmids_Genbank/ODC_0272.gb
-Open Yeast Collection,ODC_0263,FLP,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0263.gb
-Open Yeast Collection,ODC_0323,ScZeo-marker,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0323.gb
-Open Yeast Collection,ODC_0290,AConR1,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0290.gb
-Open Yeast Collection,ODC_0317,ScHygro-marker,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0317.gb
-Open Yeast Collection,ODC_0257,AB_Pp-pGAP,GGAG,TACT,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0257.gb
-Open Yeast Collection,ODC_0247,Sc-pMFA1,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0247.gb
-Open Yeast Collection,ODC_0307,PpHR5'-ENO,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0307.gb
-Open Yeast Collection,ODC_0280,Sc-tSSA1,GCTT,CGCT,terminator,,../Open Yeast Collection/Plasmids_Genbank/ODC_0280.gb
-Open Yeast Collection,ODC_0273,N1N2_SV40_NLS,CCAT,GTCA,CDS,,../Open Yeast Collection/Plasmids_Genbank/ODC_0273.gb
-Open Yeast Collection,ODC_0313,Pichia PARS,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0313.gb
-Open Yeast Collection,ODC_0253,Sc-pTrp1,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0253.gb
-Open Yeast Collection,ODC_0267,4S-limonene-synthase,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0267.gb
-Open Yeast Collection,ODC_0327,OYC-SpecR,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0327.gb
-Open Yeast Collection,ODC_0294,AConR5,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0294.gb
-Open Yeast Collection,ODC_0284,AConL-start,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0284.gb
-Open Yeast Collection,ODC_0277,Sc-tENO1,GCTT,CGCT,terminator,,../Open Yeast Collection/Plasmids_Genbank/ODC_0277.gb
-Open Yeast Collection,ODC_0243,Sc-pCYC1,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0243.gb
-Open Yeast Collection,ODC_0303,PpHR5'-NTS,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0303.gb
-Open Yeast Collection,ODC_0293,AConR4,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0293.gb
-Open Yeast Collection,ODC_0260,ScMET17,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0260.gb
-Open Yeast Collection,ODC_0320,ScNAT-marker,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0320.gb
-Open Yeast Collection,ODC_0314,oriT,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0314.gb
-Open Yeast Collection,ODC_0254,Sc-pUra3,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0254.gb
-Open Yeast Collection,ODC_0244,Sc-pHis3,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0244.gb
-Open Yeast Collection,ODC_0304,PpHR3'-NTS,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0304.gb
-Open Yeast Collection,ODC_0330,pWV01-ori,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0330.gb
-Open Yeast Collection,ODC_0270,carveol dehydrogenase,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0270.gb
-Open Yeast Collection,ODC_0283,AConL-start-rev,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0283.gb
-Open Yeast Collection,ODC_0310,PpHR3'-AOXTT,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0310.gb
-Open Yeast Collection,ODC_0250,Sc-pSAC6,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0250.gb
-Open Yeast Collection,ODC_0297,ScHR5'-LEU2,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0297.gb
-Open Yeast Collection,ODC_0264,GPP synthase,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0264.gb
-Open Yeast Collection,ODC_0324,OYC-bridge-AGAC-CGAA,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0324.gb
-Open Yeast Collection,ODC_0274,Pp_aMF_sec_tag,TACT,CCAT,CDS,,../Open Yeast Collection/Plasmids_Genbank/ODC_0274.gb
-Open Yeast Collection,ODC_0287,AConL3,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0287.gb
-Open Yeast Collection,ODC_0240,Sc-pAdh1,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0240.gb
-Open Yeast Collection,ODC_0300,ScHR3'-URA3,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0300.gb
-Open Yeast Collection,ODC_0311,Sc2micron,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0311.gb
-Open Yeast Collection,ODC_0251,Sc-pSte5,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0251.gb
-Open Yeast Collection,ODC_0296,AConR-end-rev,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0296.gb
-Open Yeast Collection,ODC_0265,GGPP synthase,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0265.gb
-Open Yeast Collection,ODC_0325,OYC-bridge-AGAC-GCAA,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0325.gb
-Open Yeast Collection,ODC_0275,Pp_aMF_noEAEA_sec_tag,TACT,CCAT,CDS,,../Open Yeast Collection/Plasmids_Genbank/ODC_0275.gb
-Open Yeast Collection,ODC_0286,AConL2,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0286.gb
-Open Yeast Collection,ODC_0241,Sc-pCCW12,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0241.gb
-Open Yeast Collection,ODC_0301,ScHR5'-HO,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0301.gb
-Open Yeast Collection,ODC_0292,AConR3,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0292.gb
-Open Yeast Collection,ODC_0261,ScAUR1,AATG,GCTT,protein_bind,,../Open Yeast Collection/Plasmids_Genbank/ODC_0261.gb
-Open Yeast Collection,ODC_0321,ScTRP1-marker,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0321.gb
-Open Yeast Collection,ODC_0315,ScADE2-marker,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0315.gb
-Open Yeast Collection,ODC_0255,AB_Sc-pCCW12,GGAG,TACT,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0255.gb
-Open Yeast Collection,ODC_0245,Sc-pLeu2,GGAG,AATG,promoter,,../Open Yeast Collection/Plasmids_Genbank/ODC_0245.gb
-Open Yeast Collection,ODC_0305,PpHR5'-RGI2,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0305.gb
-Open Yeast Collection,ODC_0271,ScGal4-DNA-AD,TCCA,AATG,CDS,,../Open Yeast Collection/Plasmids_Genbank/ODC_0271.gb
-Open Yeast Collection,ODC_0282,Pp-tAOX1,GCTT,CGCT,terminator,,../Open Yeast Collection/Plasmids_Genbank/ODC_0282.gb
-Open Yeast Collection,ODC_0299,ScHR5'-URA3,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0299.gb
-Open Yeast Collection,ODC_0289,AConL5,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0289.gb
-Open Yeast Collection,ODC_0298,ScHR3'-LEU2,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0298.gb
-Open Yeast Collection,ODC_0288,AConL4,,,,No edges found,../Open Yeast Collection/Plasmids_Genbank/ODC_0288.gb
-Ecoli Protein Expression Toolkit,ODC_0209,T5E_CBD,CGGC,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0209.gb
-Ecoli Protein Expression Toolkit,ODC_0198,DT5_TEVcut,AGGT,CGGC,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0198.gb
-Ecoli Protein Expression Toolkit,ODC_0188,CD_Calmodulin,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0188.gb
-Ecoli Protein Expression Toolkit,ODC_0199,DF_TEVcut_His_Stop_TZ,AGGT,CGCT,terminator,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0199.gb
-Ecoli Protein Expression Toolkit,ODC_0208,T5E_Calm,CGGC,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0208.gb
-Ecoli Protein Expression Toolkit,ODC_0189,CD_fuGFP,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0189.gb
-Ecoli Protein Expression Toolkit,ODC_0192,CD_EcRNAseH,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0192.gb
-Ecoli Protein Expression Toolkit,ODC_0203,T4T5_AmilCP,TTCG,CGGC,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0203.gb
-Ecoli Protein Expression Toolkit,ODC_0130,BT1_Riboj_B34,TACT,CCAT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0130.gb
-Ecoli Protein Expression Toolkit,ODC_0161,T2C_TEVcut,GTCA,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0161.gb
-Ecoli Protein Expression Toolkit,ODC_0155,BC_RiboJ_RBS64,TACT,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0155.gb
-Ecoli Protein Expression Toolkit,ODC_0145,T1T2_S-Tag,CCAT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0145.gb
-Ecoli Protein Expression Toolkit,ODC_0171,T3C_int_∆I,TCCA,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0171.gb
-Ecoli Protein Expression Toolkit,ODC_0120,CE_beta-galactosidase,AATG,GCTT,primer_bind,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0120.gb
-Ecoli Protein Expression Toolkit,ODC_0213,T5E_CipA,CGGC,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0213.gb
-Ecoli Protein Expression Toolkit,ODC_0182,CD_UvsX,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0182.gb
-Ecoli Protein Expression Toolkit,ODC_0151,BT2_BCD2_His,TACT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0151.gb
-Ecoli Protein Expression Toolkit,ODC_0207,T5E_6H,CGGC,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0207.gb
-Ecoli Protein Expression Toolkit,ODC_0196,DT4_fuGFP,AGGT,TTCG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0196.gb
-Ecoli Protein Expression Toolkit,ODC_0165,T2T3_SUMO,GTCA,TCCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0165.gb
-Ecoli Protein Expression Toolkit,ODC_0134,BT1_RiboJ_B34_His,TACT,CCAT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0134.gb
-Ecoli Protein Expression Toolkit,ODC_0124,AF_medium copy (pET) ori/KanR,GGAG,CGCT,primer_bind,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0124.gb
-Ecoli Protein Expression Toolkit,ODC_0175,CD_HIVRT,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0175.gb
-Ecoli Protein Expression Toolkit,ODC_0186,CD_TEV_protease,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0186.gb
-Ecoli Protein Expression Toolkit,ODC_0217,EF_TZ,GCTT,CGCT,terminator,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0217.gb
-Ecoli Protein Expression Toolkit,ODC_0141,T1T2_MBP,CCAT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0141.gb
-Ecoli Protein Expression Toolkit,ODC_0150,T1C_His_TEVcut,CCAT,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0150.gb
-Ecoli Protein Expression Toolkit,ODC_0197,DT4_GS flexible linker,AGGT,TTCG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0197.gb
-Ecoli Protein Expression Toolkit,ODC_0206,T4E_3xStop,TTCG,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0206.gb
-Ecoli Protein Expression Toolkit,ODC_0164,T2T3_int_∆I,GTCA,TCCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0164.gb
-Ecoli Protein Expression Toolkit,ODC_0135,BT1_BCD2_DsbA,TACT,CCAT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0135.gb
-Ecoli Protein Expression Toolkit,ODC_0125,AB_T7,GGAG,TACT,promoter,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0125.gb
-Ecoli Protein Expression Toolkit,ODC_0174,CD_OMMLV,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0174.gb
-Ecoli Protein Expression Toolkit,ODC_0216,EF_T7term,GCTT,CGCT,terminator,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0216.gb
-Ecoli Protein Expression Toolkit,ODC_0187,CD_SUMO_protease,AATG,AGGT,,No features found,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0187.gb
-Ecoli Protein Expression Toolkit,ODC_0140,T1T2_Cex,CCAT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0140.gb
-Ecoli Protein Expression Toolkit,ODC_0202,T4T5_Int_SaltS,TTCG,CGGC,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0202.gb
-Ecoli Protein Expression Toolkit,ODC_0193,DT4_Int_SaltS,AGGT,TTCG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0193.gb
-Ecoli Protein Expression Toolkit,ODC_0131,BT1_BCD12,TACT,CCAT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0131.gb
-Ecoli Protein Expression Toolkit,ODC_0160,T2C_GS flexible,GTCA,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0160.gb
-Ecoli Protein Expression Toolkit,ODC_0154,BC_B0032,TACT,AATG,,No features found,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0154.gb
-Ecoli Protein Expression Toolkit,ODC_0144,T1T2_CipA,CCAT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0144.gb
-Ecoli Protein Expression Toolkit,ODC_0337,spisPink/spisCPBiobrickK1033925,AATG,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0337.gb
-Ecoli Protein Expression Toolkit,ODC_0170,T3C_TEV,TCCA,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0170.gb
-Ecoli Protein Expression Toolkit,ODC_0121,AF_lacZ pDest,GGAG,CGCT,primer_bind,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0121.gb
-Ecoli Protein Expression Toolkit,ODC_0183,CE_T7RNApol_Stop,AATG,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0183.gb
-Ecoli Protein Expression Toolkit,ODC_0212,T5E_R5,CGGC,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0212.gb
-Ecoli Protein Expression Toolkit,ODC_0153,BC_B0034,TACT,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0153.gb
-Ecoli Protein Expression Toolkit,ODC_0136,BT1_BCD2_OmpT,TACT,CCAT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0136.gb
-Ecoli Protein Expression Toolkit,ODC_0167,T2T3_AmilCP,GTCA,TCCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0167.gb
-Ecoli Protein Expression Toolkit,ODC_0205,T4T5_GS flexible,TTCG,CGGC,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0205.gb
-Ecoli Protein Expression Toolkit,ODC_0194,DT4_Int_ThiolS,AGGT,TTCG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0194.gb
-Ecoli Protein Expression Toolkit,ODC_0184,CD_PBCV-1_ligase,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0184.gb
-Ecoli Protein Expression Toolkit,ODC_0215,EF_ECK9600,GCTT,CGCT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0215.gb
-Ecoli Protein Expression Toolkit,ODC_0177,CD_OpenVent,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0177.gb
-Ecoli Protein Expression Toolkit,ODC_0126,AB_T7_lacO,GGAG,TACT,promoter,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0126.gb
-Ecoli Protein Expression Toolkit,ODC_0143,T1T2_GST,CCAT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0143.gb
-Ecoli Protein Expression Toolkit,ODC_0163,BC_BCD2_His_fuGFP_TEVcut,TACT,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0163.gb
-Ecoli Protein Expression Toolkit,ODC_0132,BT1_BCD23,TACT,CCAT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0132.gb
-Ecoli Protein Expression Toolkit,ODC_0190,CD_AmilCP,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0190.gb
-Ecoli Protein Expression Toolkit,ODC_0201,T4T5_Int_ThiolS,TTCG,CGGC,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0201.gb
-Ecoli Protein Expression Toolkit,ODC_0157,BC_BCD23,TACT,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0157.gb
-Ecoli Protein Expression Toolkit,ODC_0147,T1T2_GS flexible,CCAT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0147.gb
-Ecoli Protein Expression Toolkit,ODC_0211,T5E_MBP,CGGC,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0211.gb
-Ecoli Protein Expression Toolkit,ODC_0180,CD_BsuLF,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0180.gb
-Ecoli Protein Expression Toolkit,ODC_0122,AE_lacZ pDest,GGAG,GCTT,primer_bind,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0122.gb
-Ecoli Protein Expression Toolkit,ODC_0173,T3C_GS flexible linker,TCCA,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0173.gb
-Ecoli Protein Expression Toolkit,ODC_0162,BC_BCD2_His_TEVcut,TACT,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0162.gb
-Ecoli Protein Expression Toolkit,ODC_0133,BT1_BCD2_His,TACT,CCAT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0133.gb
-Ecoli Protein Expression Toolkit,ODC_0200,DF_TEVcut_fuGFP_His_Stop_TZ,AGGT,CGCT,terminator,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0200.gb
-Ecoli Protein Expression Toolkit,ODC_0191,CD_TthRNAseH,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0191.gb
-Ecoli Protein Expression Toolkit,ODC_0156,BC_RiboJ_B34,TACT,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0156.gb
-Ecoli Protein Expression Toolkit,ODC_0146,T1T2_GB1,CCAT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0146.gb
-Ecoli Protein Expression Toolkit,ODC_0181,CD_UvsY,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0181.gb
-Ecoli Protein Expression Toolkit,ODC_0210,T5E_Cex,CGGC,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0210.gb
-Ecoli Protein Expression Toolkit,ODC_0123,AF_high copy (pUC) ori/KanR,GGAG,CGCT,primer_bind,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0123.gb
-Ecoli Protein Expression Toolkit,ODC_0172,T3C_fuGFP,TCCA,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0172.gb
-Ecoli Protein Expression Toolkit,ODC_0152,BT2_RiboJ_B34,TACT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0152.gb
-Ecoli Protein Expression Toolkit,ODC_0137,BT1_BCD2_pelB,TACT,CCAT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0137.gb
-Ecoli Protein Expression Toolkit,ODC_0166,T2T3_fuGFP,GTCA,TCCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0166.gb
-Ecoli Protein Expression Toolkit,ODC_0195,DT4_TEV,AGGT,TTCG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0195.gb
-Ecoli Protein Expression Toolkit,ODC_0204,T4T5_fuGFP,TTCG,CGGC,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0204.gb
-Ecoli Protein Expression Toolkit,ODC_0214,T5E_3xStop,CGGC,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0214.gb
-Ecoli Protein Expression Toolkit,ODC_0185,CD_HRP,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0185.gb
-Ecoli Protein Expression Toolkit,ODC_0176,CD_Bst-LF,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0176.gb
-Ecoli Protein Expression Toolkit,ODC_0127,AB_pTac,GGAG,TACT,promoter,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0127.gb
-Ecoli Protein Expression Toolkit,ODC_0142,T1T2_R5,CCAT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0142.gb
-Ecoli Protein Expression Toolkit,ODC_0159,BC_BCD2,TACT,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0159.gb
-Ecoli Protein Expression Toolkit,ODC_0118,CE_meffBlue/Rtms5/ NF pocilloporin /Biobrick K1033902,AATG,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0118.gb
-Ecoli Protein Expression Toolkit,ODC_0149,T1C_GS flexible,CCAT,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0149.gb
-Ecoli Protein Expression Toolkit,ODC_0169,T3C_SUMO,TCCA,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0169.gb
-Ecoli Protein Expression Toolkit,ODC_0138,T1T2_Calm,CCAT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0138.gb
-Ecoli Protein Expression Toolkit,ODC_0128,BT1_BCD2,TACT,CCAT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0128.gb
-Ecoli Protein Expression Toolkit,ODC_0179,CD_gp32,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0179.gb
-Ecoli Protein Expression Toolkit,ODC_0168,T2T3_GS flexible,GTCA,TCCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0168.gb
-Ecoli Protein Expression Toolkit,ODC_0139,T1T2_CBD,CCAT,GTCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0139.gb
-Ecoli Protein Expression Toolkit,ODC_0129,BT1_Riboj54_F1,TACT,CCAT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0129.gb
-Ecoli Protein Expression Toolkit,ODC_0178,CD_RNAseInhibitor,AATG,AGGT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0178.gb
-Ecoli Protein Expression Toolkit,ODC_0158,BC_BCD12,TACT,AATG,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0158.gb
-Ecoli Protein Expression Toolkit,ODC_0119,CE_sarcGFP,AATG,GCTT,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0119.gb
-Ecoli Protein Expression Toolkit,ODC_0148,T1T3_GS flexible,CCAT,TCCA,CDS,,../Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0148.gb
-Open Enzyme Collection,ODC_0083,UDG,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0083.gb
-Open Enzyme Collection,ODC_0070,T5 Exonuclease,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0070.gb
-Open Enzyme Collection,ODC_0021,"Bsu DNA Polymerase I, Large Fragment",AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0021.gb
-Open Enzyme Collection,ODC_0015,Pyrococcus Sp. Heat-Stable DNA Polymerase (Deep Vent™ at NEB),AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0015.gb
-Open Enzyme Collection,ODC_0044,MMLV_RT (lack H),AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0044.gb
-Open Enzyme Collection,ODC_0054,M2.SapI methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0054.gb
-Open Enzyme Collection,ODC_0031,DNA Ligase IV,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0031.gb
-Open Enzyme Collection,ODC_0060,SfiI methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0060.gb
-Open Enzyme Collection,ODC_0040,EcoRI methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0040.gb
-Open Enzyme Collection,ODC_0011,KlenTaq1 polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0011.gb
-Open Enzyme Collection,ODC_0087,Exonuclease III E. coli,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0087.gb
-Open Enzyme Collection,ODC_0025,T4 DNA Polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0025.gb
-Open Enzyme Collection,ODC_0074,T4 PNK,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0074.gb
-Open Enzyme Collection,ODC_0064,NcoI methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0064.gb
-Open Enzyme Collection,ODC_0035,T4 RNA Ligase 1,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0035.gb
-Open Enzyme Collection,ODC_0050,Eco31IA methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0050.gb
-Open Enzyme Collection,ODC_0041,PstI,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0041.gb
-Open Enzyme Collection,ODC_0010,E. coli DNA Polymerase I,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0010.gb
-Open Enzyme Collection,ODC_0086,Endonuclease VIII E. coli,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0086.gb
-Open Enzyme Collection,ODC_0024,Sulfolobus DNA Polymerase IV,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0024.gb
-Open Enzyme Collection,ODC_0075,T4 BGT,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0075.gb
-Open Enzyme Collection,ODC_0065,HindIII,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0065.gb
-Open Enzyme Collection,ODC_0034,Taq DNA Ligase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0034.gb
-Open Enzyme Collection,ODC_0051,Eco31IB methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0051.gb
-Open Enzyme Collection,ODC_0082,lambda red operon,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0082.gb
-Open Enzyme Collection,ODC_0071,HiFi Tth DNA Ligase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0071.gb
-Open Enzyme Collection,ODC_0020,"Bst DNA Polymerase, Large Fragment",AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0020.gb
-Open Enzyme Collection,ODC_0014,Pyrococcus Sp. Heat-Stable (exo–) DNA Polymerase (Deep Vent™ (exo–) DNA Polymerase at NEB),AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0014.gb
-Open Enzyme Collection,ODC_0045,Thermus thermophilus (Tth) RT,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0045.gb
-Open Enzyme Collection,ODC_0055,XbaI,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0055.gb
-Open Enzyme Collection,ODC_0030,DNA Lligase III,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0030.gb
-Open Enzyme Collection,ODC_0061,EcoRV,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0061.gb
-Open Enzyme Collection,ODC_0013,Pwo DNA Polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0013.gb
-Open Enzyme Collection,ODC_0042,PstI methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0042.gb
-Open Enzyme Collection,ODC_0076,T7 Endonuclease I,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0076.gb
-Open Enzyme Collection,ODC_0027,T5 DNA Polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0027.gb
-Open Enzyme Collection,ODC_0085,Endonuclease IV E. coli,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0085.gb
-Open Enzyme Collection,ODC_0037,RNAse A,,,,No edges found,../Open Enzyme Collection/Plasmids_Genbank/ODC_0037.gb
-Open Enzyme Collection,ODC_0066,HindIII methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0066.gb
-Open Enzyme Collection,ODC_0052,SapI,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0052.gb
-Open Enzyme Collection,ODC_0023,9°N-7 DNA Polymerase chain terminating (NEB > Therminator DNA Pol),AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0023.gb
-Open Enzyme Collection,ODC_0072,Dm dNK,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0072.gb
-Open Enzyme Collection,ODC_0081,DNA Topoisomerase 1B (Vaccinia Virus),AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0081.gb
-Open Enzyme Collection,ODC_0046,T3 RNA Polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0046.gb
-Open Enzyme Collection,ODC_0017,Tli DNA polymerase (exo-)(available from NEB as VentR® (exo-) DNA Polymerase),AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0017.gb
-Open Enzyme Collection,ODC_0007,9°N-7 DNA polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0007.gb
-Open Enzyme Collection,ODC_0056,XbaI methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0056.gb
-Open Enzyme Collection,ODC_0062,EcoRV methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0062.gb
-Open Enzyme Collection,ODC_0033,Pfu DNA Ligase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0033.gb
-Open Enzyme Collection,ODC_0022,phi29 DNA Polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0022.gb
-Open Enzyme Collection,ODC_0073,TEV protease,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0073.gb
-Open Enzyme Collection,ODC_0080,Terminal transferase TdT (Bovine DNTT),AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0080.gb
-Open Enzyme Collection,ODC_0047,T7 RNA Polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0047.gb
-Open Enzyme Collection,ODC_0016,Taq DNA Polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0016.gb
-Open Enzyme Collection,ODC_0057,NotI,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0057.gb
-Open Enzyme Collection,ODC_0063,NcoI,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0063.gb
-Open Enzyme Collection,ODC_0032,9 Degrees North DNA Ligase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0032.gb
-Open Enzyme Collection,ODC_0012,KOD DNA polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0012.gb
-Open Enzyme Collection,ODC_0043,MMLV_RT (mut H),AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0043.gb
-Open Enzyme Collection,ODC_0077,T4 Endonuclease V (T4 PDG),AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0077.gb
-Open Enzyme Collection,ODC_0026,T7 DNA Polymerase (unmodified),AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0026.gb
-Open Enzyme Collection,ODC_0084,Fpg,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0084.gb
-Open Enzyme Collection,ODC_0036,CIP (calf intestinal phosphatase),AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0036.gb
-Open Enzyme Collection,ODC_0067,DpnI,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0067.gb
-Open Enzyme Collection,ODC_0053,M1.SapI methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0053.gb
-Open Enzyme Collection,ODC_0019,"Bst DNA Polymerase, Full Length",AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0019.gb
-Open Enzyme Collection,ODC_0048,SP6 RNA Polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0048.gb
-Open Enzyme Collection,ODC_0058,NotI methyltransferase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0058.gb
-Open Enzyme Collection,ODC_0009,"DNA Polymerase I, Large (Klenow) Fragment (3′→5′ exo-)",AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0009.gb
-Open Enzyme Collection,ODC_0029,E. coli DNA Ligase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0029.gb
-Open Enzyme Collection,ODC_0078,T4 g32,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0078.gb
-Open Enzyme Collection,ODC_0068,Bst HF,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0068.gb
-Open Enzyme Collection,ODC_0039,EcoRI,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0039.gb
-Open Enzyme Collection,ODC_0028,T4-DNA Ligase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0028.gb
-Open Enzyme Collection,ODC_0079,P45,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0079.gb
-Open Enzyme Collection,ODC_0069,ET SSB,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0069.gb
-Open Enzyme Collection,ODC_0038,RNAse H,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0038.gb
-Open Enzyme Collection,ODC_0018,Tth DNA polymerase,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0018.gb
-Open Enzyme Collection,ODC_0049,Eco31I,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0049.gb
-Open Enzyme Collection,ODC_0059,SfiI,AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0059.gb
-Open Enzyme Collection,ODC_0008,"DNA Polymerase I, Large (Klenow) Fragment",AATG,GCTT,CDS,,../Open Enzyme Collection/Plasmids_Genbank/ODC_0008.gb
-Open Plasmids,ODC_0005,pTiR,GGAG,CGCT,misc_feature,,../Open Plasmids/Plasmids_Genbank/ODC_0005.gb
-Open Plasmids,ODC_0001,pInducible/pOpen_v4,,,,No edges found,../Open Plasmids/Plasmids_Genbank/ODC_0001.gb
-Open Plasmids,ODC_0004,pTi,GGAG,CGCT,re_site,,../Open Plasmids/Plasmids_Genbank/ODC_0004.gb
-Open Plasmids,ODC_0003,pYeast/pOpen_yeast,,,,No edges found,../Open Plasmids/Plasmids_Genbank/ODC_0003.gb
-Open Plasmids,ODC_0006,pTiER,GGAG,CGCT,misc_feature,,../Open Plasmids/Plasmids_Genbank/ODC_0006.gb
-Open Plasmids,ODC_0002,pBuild/pOpen_v3,,,,No edges found,../Open Plasmids/Plasmids_Genbank/ODC_0002.gb
-Bacillus subtilis Protein Secretion Toolkit,ODC_0336,BsubSecTagLP_6,,,,Multiple edges found,../Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0336.gb
-Bacillus subtilis Protein Secretion Toolkit,ODC_0332,BsubSecTagLP_2,,,,Multiple edges found,../Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0332.gb
-Bacillus subtilis Protein Secretion Toolkit,ODC_0333,BsubSecTagLP_3,,,,Multiple edges found,../Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0333.gb
-Bacillus subtilis Protein Secretion Toolkit,ODC_0334,BsubSecTagLP_4,,,,Multiple edges found,../Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0334.gb
-Bacillus subtilis Protein Secretion Toolkit,ODC_0335,BsubSecTagLP_5,,,,Multiple edges found,../Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0335.gb
-Bacillus subtilis Protein Secretion Toolkit,ODC_0331,BsubSecTagLP_1,,,,Multiple edges found,../Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0331.gb
+Ecoli Nanobody Toolkit,T3C_Linker14,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/T3C_Linker14.gb
+Ecoli Nanobody Toolkit,BC_RJ_SD8,,TACT,AATG,CDS,,Ecoli Nanobody Toolkit/genbank_seq/BC_RJ_SD8.gb
+Ecoli Nanobody Toolkit,T1T3_LgBit,,CCAT,TCCA,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/T1T3_LgBit.gb
+Ecoli Nanobody Toolkit,EF_TermT7,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/EF_TermT7.gb
+Ecoli Nanobody Toolkit,CD_eGFP,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/CD_eGFP.gb
+Ecoli Nanobody Toolkit,T1T3_T7Nwt_STOP,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/T1T3_T7Nwt_STOP.gb
+Ecoli Nanobody Toolkit,BT1_RJ_B34_6H_TEVc,,TACT,CCAT,linker,,Ecoli Nanobody Toolkit/genbank_seq/BT1_RJ_B34_6H_TEVc.gb
+Ecoli Nanobody Toolkit,CD_ZB,,AATG,AGGT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/CD_ZB.gb
+Ecoli Nanobody Toolkit,T4T5_T7Cwt_STOP,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/T4T5_T7Cwt_STOP.gb
+Ecoli Nanobody Toolkit,CD_NbLag2 (eGFP),,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/CD_NbLag2 (eGFP).gb
+Ecoli Nanobody Toolkit,CD_NbVHHV,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/CD_NbVHHV.gb
+Ecoli Nanobody Toolkit,T3C_LLinkerN,,TCCA,AATG,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/T3C_LLinkerN.gb
+Ecoli Nanobody Toolkit,T4T5_SmBit,,TTCG,CGGC,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/T4T5_SmBit.gb
+Ecoli Nanobody Toolkit,CD_FRB,,AATG,AGGT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/CD_FRB.gb
+Ecoli Nanobody Toolkit,CD_NbVHHE,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/CD_NbVHHE.gb
+Ecoli Nanobody Toolkit,AB_araCpBADv3,,GGAG,TACT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/AB_araCpBADv3.gb
+Ecoli Nanobody Toolkit,DT4_Linker14,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/DT4_Linker14.gb
+Ecoli Nanobody Toolkit,CD_NbB1,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/CD_NbB1.gb
+Ecoli Nanobody Toolkit,CD_ZBn,,AATG,AGGT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/CD_ZBn.gb
+Ecoli Nanobody Toolkit,T1T3_NT7pd ,,CCAT,TCCA,CDS,,Ecoli Nanobody Toolkit/genbank_seq/T1T3_NT7pd .gb
+Ecoli Nanobody Toolkit,BT1_RJ_SD8_6H_TEVc,,TACT,CCAT,linker,,Ecoli Nanobody Toolkit/genbank_seq/BT1_RJ_SD8_6H_TEVc.gb
+Ecoli Nanobody Toolkit,AB_araCpBADv2,,GGAG,TACT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/AB_araCpBADv2.gb
+Ecoli Nanobody Toolkit,CD_LuxAB,,AATG,AGGT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/CD_LuxAB.gb
+Ecoli Nanobody Toolkit,BT1_RJ_SD5,,TACT,CCAT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/BT1_RJ_SD5.gb
+Ecoli Nanobody Toolkit,BT1_RJ_BCD2_6H_TEVc,,TACT,CCAT,linker,,Ecoli Nanobody Toolkit/genbank_seq/BT1_RJ_BCD2_6H_TEVc.gb
+Ecoli Nanobody Toolkit,T3C_MLinkerN,,TCCA,AATG,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/T3C_MLinkerN.gb
+Ecoli Nanobody Toolkit,CD_FKBP,,AATG,AGGT,CDS,,Ecoli Nanobody Toolkit/genbank_seq/CD_FKBP.gb
+Ecoli Nanobody Toolkit,BC_RBS_UTRcfps,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/BC_RBS_UTRcfps.gb
+Ecoli Nanobody Toolkit,BT1_RBS_UTRcfps,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/BT1_RBS_UTRcfps.gb
+Ecoli Nanobody Toolkit,T1T3_T7Nev,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/T1T3_T7Nev.gb
+Ecoli Nanobody Toolkit,AB_pKatPu,,GGAG,TACT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/AB_pKatPu.gb
+Ecoli Nanobody Toolkit,DT4_MLinkerC,,AGGT,TTCG,syntax,,Ecoli Nanobody Toolkit/genbank_seq/DT4_MLinkerC.gb
+Ecoli Nanobody Toolkit,T3C_Linker28,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/T3C_Linker28.gb
+Ecoli Nanobody Toolkit,DT4_Linker7,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/DT4_Linker7.gb
+Ecoli Nanobody Toolkit,T3C_Linker7,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/T3C_Linker7.gb
+Ecoli Nanobody Toolkit,BC_RJ_SD5,,TACT,AATG,CDS,,Ecoli Nanobody Toolkit/genbank_seq/BC_RJ_SD5.gb
+Ecoli Nanobody Toolkit,T4T5_CT7,,TTCG,CGGC,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/T4T5_CT7.gb
+Ecoli Nanobody Toolkit,BT1_RJ_SD8,,TACT,CCAT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/BT1_RJ_SD8.gb
+Ecoli Nanobody Toolkit,CD_ZA,,AATG,AGGT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/CD_ZA.gb
+Ecoli Nanobody Toolkit,AB_pKat,,GGAG,TACT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/AB_pKat.gb
+Ecoli Nanobody Toolkit,DT4_LLinkerC,,AGGT,TTCG,syntax,,Ecoli Nanobody Toolkit/genbank_seq/DT4_LLinkerC.gb
+Ecoli Nanobody Toolkit,CD_W25,,AATG,AGGT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/CD_W25.gb
+Ecoli Nanobody Toolkit,CD_W276,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/CD_W276.gb
+Ecoli Nanobody Toolkit,AB_pBAD,,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/AB_pBAD.gb
+Ecoli Nanobody Toolkit,AB_araCpBAD,,GGAG,TACT,misc_feature,,Ecoli Nanobody Toolkit/genbank_seq/AB_araCpBAD.gb
+Ecoli Nanobody Toolkit,CD_NbLag14 (eGFP),,,,,No edges found,Ecoli Nanobody Toolkit/genbank_seq/CD_NbLag14 (eGFP).gb
+Ecoli Nanobody Toolkit,T1T3_NT7pdo ,,CCAT,TCCA,CDS,,Ecoli Nanobody Toolkit/genbank_seq/T1T3_NT7pdo .gb
+Open Reporters Collection,ODC_0089,gfasPurple/gfasCP Biobrick K1033918,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0089.gb
+Open Reporters Collection,ODC_0099,eechGFP2,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0099.gb
+Open Reporters Collection,ODC_0088,cjBlue/ BioBrick K592011,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0088.gb
+Open Reporters Collection,ODC_0098,eechGFP1,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0098.gb
+Open Reporters Collection,ODC_0104,amilRFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0104.gb
+Open Reporters Collection,ODC_0114,Luciferase [Luciola cruciata] (Japanese firefly),AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0114.gb
+Open Reporters Collection,ODC_0093,efasCFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0093.gb
+Open Reporters Collection,ODC_0100,eechGFP3,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0100.gb
+Open Reporters Collection,ODC_0097,amilGFP Biobrick K592010,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0097.gb
+Open Reporters Collection,ODC_0110,amajLime/amajCFP/amFP486 BioBrick K1033916,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0110.gb
+Open Reporters Collection,ODC_0101,efasGFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0101.gb
+Open Reporters Collection,ODC_0096,afraGFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0096.gb
+Open Reporters Collection,ODC_0111,EiraCFP Biobrick J97000,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0111.gb
+Open Reporters Collection,ODC_0105,meffRed/meffRFP Biobricks K592012,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0105.gb
+Open Reporters Collection,ODC_0115,Renilla luciferase,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0115.gb
+Open Reporters Collection,ODC_0092,meleCFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0092.gb
+Open Reporters Collection,ODC_0102,gfasGFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0102.gb
+Open Reporters Collection,ODC_0095,aacuGFP2,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0095.gb
+Open Reporters Collection,ODC_0112,HRP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0112.gb
+Open Reporters Collection,ODC_0106,pporRFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0106.gb
+Open Reporters Collection,ODC_0116,beta-lactamase,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0116.gb
+Open Reporters Collection,ODC_0091,mmilCFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0091.gb
+Open Reporters Collection,ODC_0107,meleRFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0107.gb
+Open Reporters Collection,ODC_0117,Calf Intestine Alkaline phosphatase (CIAP),AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0117.gb
+Open Reporters Collection,ODC_0090,meffCFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0090.gb
+Open Reporters Collection,ODC_0103,plamGFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0103.gb
+Open Reporters Collection,ODC_0094,aacuGFP1,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0094.gb
+Open Reporters Collection,ODC_0113,Firefly Luciferase [Photinus pyralis] (Fluc),AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0113.gb
+Open Reporters Collection,ODC_0108,scubRFP,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0108.gb
+Open Reporters Collection,ODC_0109,eforRed/eforCP Biobrick K592012,AATG,GCTT,CDS,,Open Reporters Collection/Plasmids_Genbank/ODC_0109.gb
+Molecular Diagnostics Toolkit,ODC_0219,Pfu_Ssod7 HiFi,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0219.gb
+Molecular Diagnostics Toolkit,ODC_0239,TEV,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0239.gb
+Molecular Diagnostics Toolkit,ODC_0229,orfB3,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0229.gb
+Molecular Diagnostics Toolkit,ODC_0238,EcRNAseH,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0238.gb
+Molecular Diagnostics Toolkit,ODC_0228,orfA2,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0228.gb
+Molecular Diagnostics Toolkit,ODC_0218,MERScontrol,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0218.gb
+Molecular Diagnostics Toolkit,ODC_0237,TthRNAseH,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0237.gb
+Molecular Diagnostics Toolkit,ODC_0227,orfA1,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0227.gb
+Molecular Diagnostics Toolkit,ODC_0233,Bst-LF,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0233.gb
+Molecular Diagnostics Toolkit,ODC_0223,OMMLV,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0223.gb
+Molecular Diagnostics Toolkit,ODC_0232,SARSContol,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0232.gb
+Molecular Diagnostics Toolkit,ODC_0222,HIVRT,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0222.gb
+Molecular Diagnostics Toolkit,ODC_0236,PBCV-1_ligase,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0236.gb
+Molecular Diagnostics Toolkit,ODC_0226,EcPPA,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0226.gb
+Molecular Diagnostics Toolkit,ODC_0231,orfN5,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0231.gb
+Molecular Diagnostics Toolkit,ODC_0221,Ecoli_opt_RNAseInhib,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0221.gb
+Molecular Diagnostics Toolkit,ODC_0235,UvsX,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0235.gb
+Molecular Diagnostics Toolkit,ODC_0225,RNAseInhib,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0225.gb
+Molecular Diagnostics Toolkit,ODC_0234,Bsu,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0234.gb
+Molecular Diagnostics Toolkit,ODC_0224,OpenVent,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0224.gb
+Molecular Diagnostics Toolkit,ODC_0230,orfE4,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0230.gb
+Molecular Diagnostics Toolkit,ODC_0220,gp32,,,,No edges found,Molecular Diagnostics Toolkit/Plasmids_Genbank/ODC_0220.gb
+Open Yeast Collection,ODC_0318,ScKanR-marker,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0318.gb
+Open Yeast Collection,ODC_0258,AB_Pp-pAOX1,GGAG,TACT,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0258.gb
+Open Yeast Collection,ODC_0248,Sc-pMFalpha2,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0248.gb
+Open Yeast Collection,ODC_0308,PpHR3'-ENO,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0308.gb
+Open Yeast Collection,ODC_0268,limonene-3-hydroxylase,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0268.gb
+Open Yeast Collection,ODC_0328,OYC-high-copy-origin,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0328.gb
+Open Yeast Collection,ODC_0278,Sc-tENO2,GCTT,CGCT,,No features found,Open Yeast Collection/Plasmids_Genbank/ODC_0278.gb
+Open Yeast Collection,ODC_0269,S-linalool synthase,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0269.gb
+Open Yeast Collection,ODC_0329,OYC-eforRed-dropout,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0329.gb
+Open Yeast Collection,ODC_0279,Sc-tPRM9,GCTT,CGCT,terminator,,Open Yeast Collection/Plasmids_Genbank/ODC_0279.gb
+Open Yeast Collection,ODC_0319,ScLEU2-marker,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0319.gb
+Open Yeast Collection,ODC_0259,ScLYS2,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0259.gb
+Open Yeast Collection,ODC_0249,Sc-pRPL18B,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0249.gb
+Open Yeast Collection,ODC_0309,PpHR5'-AOXTT,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0309.gb
+Open Yeast Collection,ODC_0312,ScARS_CEN,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0312.gb
+Open Yeast Collection,ODC_0252,Sc-pTDH3,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0252.gb
+Open Yeast Collection,ODC_0266,FPP synthase,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0266.gb
+Open Yeast Collection,ODC_0326,OYC-CamR,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0326.gb
+Open Yeast Collection,ODC_0295,AConR-end,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0295.gb
+Open Yeast Collection,ODC_0285,AConL1,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0285.gb
+Open Yeast Collection,ODC_0276,Sc-tUBX6,GCTT,CGCT,terminator,,Open Yeast Collection/Plasmids_Genbank/ODC_0276.gb
+Open Yeast Collection,ODC_0242,Sc-pCUP1,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0242.gb
+Open Yeast Collection,ODC_0302,ScHR3'-HO,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0302.gb
+Open Yeast Collection,ODC_0262,Cre,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0262.gb
+Open Yeast Collection,ODC_0322,ScURA3-marker,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0322.gb
+Open Yeast Collection,ODC_0291,AConR2,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0291.gb
+Open Yeast Collection,ODC_0316,ScHIS3-marker,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0316.gb
+Open Yeast Collection,ODC_0256,AB_Sc-pCYC1,GGAG,TACT,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0256.gb
+Open Yeast Collection,ODC_0246,Sc-pMF2,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0246.gb
+Open Yeast Collection,ODC_0306,PpHR3'-RGI2,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0306.gb
+Open Yeast Collection,ODC_0281,Sc-tTDH1,GCTT,CGCT,terminator,,Open Yeast Collection/Plasmids_Genbank/ODC_0281.gb
+Open Yeast Collection,ODC_0272,ScGal4-DNA-BD,TCCA,AATG,CDS,,Open Yeast Collection/Plasmids_Genbank/ODC_0272.gb
+Open Yeast Collection,ODC_0263,FLP,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0263.gb
+Open Yeast Collection,ODC_0323,ScZeo-marker,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0323.gb
+Open Yeast Collection,ODC_0290,AConR1,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0290.gb
+Open Yeast Collection,ODC_0317,ScHygro-marker,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0317.gb
+Open Yeast Collection,ODC_0257,AB_Pp-pGAP,GGAG,TACT,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0257.gb
+Open Yeast Collection,ODC_0247,Sc-pMFA1,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0247.gb
+Open Yeast Collection,ODC_0307,PpHR5'-ENO,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0307.gb
+Open Yeast Collection,ODC_0280,Sc-tSSA1,GCTT,CGCT,terminator,,Open Yeast Collection/Plasmids_Genbank/ODC_0280.gb
+Open Yeast Collection,ODC_0273,N1N2_SV40_NLS,CCAT,GTCA,CDS,,Open Yeast Collection/Plasmids_Genbank/ODC_0273.gb
+Open Yeast Collection,ODC_0313,Pichia PARS,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0313.gb
+Open Yeast Collection,ODC_0253,Sc-pTrp1,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0253.gb
+Open Yeast Collection,ODC_0267,4S-limonene-synthase,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0267.gb
+Open Yeast Collection,ODC_0327,OYC-SpecR,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0327.gb
+Open Yeast Collection,ODC_0294,AConR5,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0294.gb
+Open Yeast Collection,ODC_0284,AConL-start,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0284.gb
+Open Yeast Collection,ODC_0277,Sc-tENO1,GCTT,CGCT,terminator,,Open Yeast Collection/Plasmids_Genbank/ODC_0277.gb
+Open Yeast Collection,ODC_0243,Sc-pCYC1,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0243.gb
+Open Yeast Collection,ODC_0303,PpHR5'-NTS,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0303.gb
+Open Yeast Collection,ODC_0293,AConR4,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0293.gb
+Open Yeast Collection,ODC_0260,ScMET17,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0260.gb
+Open Yeast Collection,ODC_0320,ScNAT-marker,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0320.gb
+Open Yeast Collection,ODC_0314,oriT,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0314.gb
+Open Yeast Collection,ODC_0254,Sc-pUra3,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0254.gb
+Open Yeast Collection,ODC_0244,Sc-pHis3,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0244.gb
+Open Yeast Collection,ODC_0304,PpHR3'-NTS,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0304.gb
+Open Yeast Collection,ODC_0330,pWV01-ori,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0330.gb
+Open Yeast Collection,ODC_0270,carveol dehydrogenase,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0270.gb
+Open Yeast Collection,ODC_0283,AConL-start-rev,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0283.gb
+Open Yeast Collection,ODC_0310,PpHR3'-AOXTT,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0310.gb
+Open Yeast Collection,ODC_0250,Sc-pSAC6,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0250.gb
+Open Yeast Collection,ODC_0297,ScHR5'-LEU2,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0297.gb
+Open Yeast Collection,ODC_0264,GPP synthase,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0264.gb
+Open Yeast Collection,ODC_0324,OYC-bridge-AGAC-CGAA,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0324.gb
+Open Yeast Collection,ODC_0274,Pp_aMF_sec_tag,TACT,CCAT,CDS,,Open Yeast Collection/Plasmids_Genbank/ODC_0274.gb
+Open Yeast Collection,ODC_0287,AConL3,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0287.gb
+Open Yeast Collection,ODC_0240,Sc-pAdh1,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0240.gb
+Open Yeast Collection,ODC_0300,ScHR3'-URA3,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0300.gb
+Open Yeast Collection,ODC_0311,Sc2micron,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0311.gb
+Open Yeast Collection,ODC_0251,Sc-pSte5,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0251.gb
+Open Yeast Collection,ODC_0296,AConR-end-rev,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0296.gb
+Open Yeast Collection,ODC_0265,GGPP synthase,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0265.gb
+Open Yeast Collection,ODC_0325,OYC-bridge-AGAC-GCAA,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0325.gb
+Open Yeast Collection,ODC_0275,Pp_aMF_noEAEA_sec_tag,TACT,CCAT,CDS,,Open Yeast Collection/Plasmids_Genbank/ODC_0275.gb
+Open Yeast Collection,ODC_0286,AConL2,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0286.gb
+Open Yeast Collection,ODC_0241,Sc-pCCW12,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0241.gb
+Open Yeast Collection,ODC_0301,ScHR5'-HO,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0301.gb
+Open Yeast Collection,ODC_0292,AConR3,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0292.gb
+Open Yeast Collection,ODC_0261,ScAUR1,AATG,GCTT,protein_bind,,Open Yeast Collection/Plasmids_Genbank/ODC_0261.gb
+Open Yeast Collection,ODC_0321,ScTRP1-marker,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0321.gb
+Open Yeast Collection,ODC_0315,ScADE2-marker,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0315.gb
+Open Yeast Collection,ODC_0255,AB_Sc-pCCW12,GGAG,TACT,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0255.gb
+Open Yeast Collection,ODC_0245,Sc-pLeu2,GGAG,AATG,promoter,,Open Yeast Collection/Plasmids_Genbank/ODC_0245.gb
+Open Yeast Collection,ODC_0305,PpHR5'-RGI2,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0305.gb
+Open Yeast Collection,ODC_0271,ScGal4-DNA-AD,TCCA,AATG,CDS,,Open Yeast Collection/Plasmids_Genbank/ODC_0271.gb
+Open Yeast Collection,ODC_0282,Pp-tAOX1,GCTT,CGCT,terminator,,Open Yeast Collection/Plasmids_Genbank/ODC_0282.gb
+Open Yeast Collection,ODC_0299,ScHR5'-URA3,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0299.gb
+Open Yeast Collection,ODC_0289,AConL5,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0289.gb
+Open Yeast Collection,ODC_0298,ScHR3'-LEU2,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0298.gb
+Open Yeast Collection,ODC_0288,AConL4,,,,No edges found,Open Yeast Collection/Plasmids_Genbank/ODC_0288.gb
+Ecoli Protein Expression Toolkit,ODC_0209,T5E_CBD,CGGC,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0209.gb
+Ecoli Protein Expression Toolkit,ODC_0198,DT5_TEVcut,AGGT,CGGC,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0198.gb
+Ecoli Protein Expression Toolkit,ODC_0188,CD_Calmodulin,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0188.gb
+Ecoli Protein Expression Toolkit,ODC_0199,DF_TEVcut_His_Stop_TZ,AGGT,CGCT,terminator,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0199.gb
+Ecoli Protein Expression Toolkit,ODC_0208,T5E_Calm,CGGC,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0208.gb
+Ecoli Protein Expression Toolkit,ODC_0189,CD_fuGFP,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0189.gb
+Ecoli Protein Expression Toolkit,ODC_0192,CD_EcRNAseH,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0192.gb
+Ecoli Protein Expression Toolkit,ODC_0203,T4T5_AmilCP,TTCG,CGGC,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0203.gb
+Ecoli Protein Expression Toolkit,ODC_0130,BT1_Riboj_B34,TACT,CCAT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0130.gb
+Ecoli Protein Expression Toolkit,ODC_0161,T2C_TEVcut,GTCA,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0161.gb
+Ecoli Protein Expression Toolkit,ODC_0155,BC_RiboJ_RBS64,TACT,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0155.gb
+Ecoli Protein Expression Toolkit,ODC_0145,T1T2_S-Tag,CCAT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0145.gb
+Ecoli Protein Expression Toolkit,ODC_0171,T3C_int_∆I,TCCA,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0171.gb
+Ecoli Protein Expression Toolkit,ODC_0120,CE_beta-galactosidase,AATG,GCTT,primer_bind,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0120.gb
+Ecoli Protein Expression Toolkit,ODC_0213,T5E_CipA,CGGC,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0213.gb
+Ecoli Protein Expression Toolkit,ODC_0182,CD_UvsX,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0182.gb
+Ecoli Protein Expression Toolkit,ODC_0151,BT2_BCD2_His,TACT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0151.gb
+Ecoli Protein Expression Toolkit,ODC_0207,T5E_6H,CGGC,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0207.gb
+Ecoli Protein Expression Toolkit,ODC_0196,DT4_fuGFP,AGGT,TTCG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0196.gb
+Ecoli Protein Expression Toolkit,ODC_0165,T2T3_SUMO,GTCA,TCCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0165.gb
+Ecoli Protein Expression Toolkit,ODC_0134,BT1_RiboJ_B34_His,TACT,CCAT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0134.gb
+Ecoli Protein Expression Toolkit,ODC_0124,AF_medium copy (pET) ori/KanR,GGAG,CGCT,primer_bind,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0124.gb
+Ecoli Protein Expression Toolkit,ODC_0175,CD_HIVRT,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0175.gb
+Ecoli Protein Expression Toolkit,ODC_0186,CD_TEV_protease,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0186.gb
+Ecoli Protein Expression Toolkit,ODC_0217,EF_TZ,GCTT,CGCT,terminator,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0217.gb
+Ecoli Protein Expression Toolkit,ODC_0141,T1T2_MBP,CCAT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0141.gb
+Ecoli Protein Expression Toolkit,ODC_0150,T1C_His_TEVcut,CCAT,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0150.gb
+Ecoli Protein Expression Toolkit,ODC_0197,DT4_GS flexible linker,AGGT,TTCG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0197.gb
+Ecoli Protein Expression Toolkit,ODC_0206,T4E_3xStop,TTCG,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0206.gb
+Ecoli Protein Expression Toolkit,ODC_0164,T2T3_int_∆I,GTCA,TCCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0164.gb
+Ecoli Protein Expression Toolkit,ODC_0135,BT1_BCD2_DsbA,TACT,CCAT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0135.gb
+Ecoli Protein Expression Toolkit,ODC_0125,AB_T7,GGAG,TACT,promoter,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0125.gb
+Ecoli Protein Expression Toolkit,ODC_0174,CD_OMMLV,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0174.gb
+Ecoli Protein Expression Toolkit,ODC_0216,EF_T7term,GCTT,CGCT,terminator,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0216.gb
+Ecoli Protein Expression Toolkit,ODC_0187,CD_SUMO_protease,AATG,AGGT,,No features found,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0187.gb
+Ecoli Protein Expression Toolkit,ODC_0140,T1T2_Cex,CCAT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0140.gb
+Ecoli Protein Expression Toolkit,ODC_0202,T4T5_Int_SaltS,TTCG,CGGC,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0202.gb
+Ecoli Protein Expression Toolkit,ODC_0193,DT4_Int_SaltS,AGGT,TTCG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0193.gb
+Ecoli Protein Expression Toolkit,ODC_0131,BT1_BCD12,TACT,CCAT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0131.gb
+Ecoli Protein Expression Toolkit,ODC_0160,T2C_GS flexible,GTCA,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0160.gb
+Ecoli Protein Expression Toolkit,ODC_0154,BC_B0032,TACT,AATG,,No features found,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0154.gb
+Ecoli Protein Expression Toolkit,ODC_0144,T1T2_CipA,CCAT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0144.gb
+Ecoli Protein Expression Toolkit,ODC_0337,spisPink/spisCPBiobrickK1033925,AATG,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0337.gb
+Ecoli Protein Expression Toolkit,ODC_0170,T3C_TEV,TCCA,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0170.gb
+Ecoli Protein Expression Toolkit,ODC_0121,AF_lacZ pDest,GGAG,CGCT,primer_bind,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0121.gb
+Ecoli Protein Expression Toolkit,ODC_0183,CE_T7RNApol_Stop,AATG,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0183.gb
+Ecoli Protein Expression Toolkit,ODC_0212,T5E_R5,CGGC,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0212.gb
+Ecoli Protein Expression Toolkit,ODC_0153,BC_B0034,TACT,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0153.gb
+Ecoli Protein Expression Toolkit,ODC_0136,BT1_BCD2_OmpT,TACT,CCAT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0136.gb
+Ecoli Protein Expression Toolkit,ODC_0167,T2T3_AmilCP,GTCA,TCCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0167.gb
+Ecoli Protein Expression Toolkit,ODC_0205,T4T5_GS flexible,TTCG,CGGC,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0205.gb
+Ecoli Protein Expression Toolkit,ODC_0194,DT4_Int_ThiolS,AGGT,TTCG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0194.gb
+Ecoli Protein Expression Toolkit,ODC_0184,CD_PBCV-1_ligase,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0184.gb
+Ecoli Protein Expression Toolkit,ODC_0215,EF_ECK9600,GCTT,CGCT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0215.gb
+Ecoli Protein Expression Toolkit,ODC_0177,CD_OpenVent,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0177.gb
+Ecoli Protein Expression Toolkit,ODC_0126,AB_T7_lacO,GGAG,TACT,promoter,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0126.gb
+Ecoli Protein Expression Toolkit,ODC_0143,T1T2_GST,CCAT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0143.gb
+Ecoli Protein Expression Toolkit,ODC_0163,BC_BCD2_His_fuGFP_TEVcut,TACT,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0163.gb
+Ecoli Protein Expression Toolkit,ODC_0132,BT1_BCD23,TACT,CCAT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0132.gb
+Ecoli Protein Expression Toolkit,ODC_0190,CD_AmilCP,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0190.gb
+Ecoli Protein Expression Toolkit,ODC_0201,T4T5_Int_ThiolS,TTCG,CGGC,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0201.gb
+Ecoli Protein Expression Toolkit,ODC_0157,BC_BCD23,TACT,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0157.gb
+Ecoli Protein Expression Toolkit,ODC_0147,T1T2_GS flexible,CCAT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0147.gb
+Ecoli Protein Expression Toolkit,ODC_0211,T5E_MBP,CGGC,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0211.gb
+Ecoli Protein Expression Toolkit,ODC_0180,CD_BsuLF,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0180.gb
+Ecoli Protein Expression Toolkit,ODC_0122,AE_lacZ pDest,GGAG,GCTT,primer_bind,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0122.gb
+Ecoli Protein Expression Toolkit,ODC_0173,T3C_GS flexible linker,TCCA,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0173.gb
+Ecoli Protein Expression Toolkit,ODC_0162,BC_BCD2_His_TEVcut,TACT,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0162.gb
+Ecoli Protein Expression Toolkit,ODC_0133,BT1_BCD2_His,TACT,CCAT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0133.gb
+Ecoli Protein Expression Toolkit,ODC_0200,DF_TEVcut_fuGFP_His_Stop_TZ,AGGT,CGCT,terminator,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0200.gb
+Ecoli Protein Expression Toolkit,ODC_0191,CD_TthRNAseH,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0191.gb
+Ecoli Protein Expression Toolkit,ODC_0156,BC_RiboJ_B34,TACT,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0156.gb
+Ecoli Protein Expression Toolkit,ODC_0146,T1T2_GB1,CCAT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0146.gb
+Ecoli Protein Expression Toolkit,ODC_0181,CD_UvsY,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0181.gb
+Ecoli Protein Expression Toolkit,ODC_0210,T5E_Cex,CGGC,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0210.gb
+Ecoli Protein Expression Toolkit,ODC_0123,AF_high copy (pUC) ori/KanR,GGAG,CGCT,primer_bind,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0123.gb
+Ecoli Protein Expression Toolkit,ODC_0172,T3C_fuGFP,TCCA,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0172.gb
+Ecoli Protein Expression Toolkit,ODC_0152,BT2_RiboJ_B34,TACT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0152.gb
+Ecoli Protein Expression Toolkit,ODC_0137,BT1_BCD2_pelB,TACT,CCAT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0137.gb
+Ecoli Protein Expression Toolkit,ODC_0166,T2T3_fuGFP,GTCA,TCCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0166.gb
+Ecoli Protein Expression Toolkit,ODC_0195,DT4_TEV,AGGT,TTCG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0195.gb
+Ecoli Protein Expression Toolkit,ODC_0204,T4T5_fuGFP,TTCG,CGGC,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0204.gb
+Ecoli Protein Expression Toolkit,ODC_0214,T5E_3xStop,CGGC,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0214.gb
+Ecoli Protein Expression Toolkit,ODC_0185,CD_HRP,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0185.gb
+Ecoli Protein Expression Toolkit,ODC_0176,CD_Bst-LF,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0176.gb
+Ecoli Protein Expression Toolkit,ODC_0127,AB_pTac,GGAG,TACT,promoter,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0127.gb
+Ecoli Protein Expression Toolkit,ODC_0142,T1T2_R5,CCAT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0142.gb
+Ecoli Protein Expression Toolkit,ODC_0159,BC_BCD2,TACT,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0159.gb
+Ecoli Protein Expression Toolkit,ODC_0118,CE_meffBlue/Rtms5/ NF pocilloporin /Biobrick K1033902,AATG,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0118.gb
+Ecoli Protein Expression Toolkit,ODC_0149,T1C_GS flexible,CCAT,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0149.gb
+Ecoli Protein Expression Toolkit,ODC_0169,T3C_SUMO,TCCA,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0169.gb
+Ecoli Protein Expression Toolkit,ODC_0138,T1T2_Calm,CCAT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0138.gb
+Ecoli Protein Expression Toolkit,ODC_0128,BT1_BCD2,TACT,CCAT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0128.gb
+Ecoli Protein Expression Toolkit,ODC_0179,CD_gp32,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0179.gb
+Ecoli Protein Expression Toolkit,ODC_0168,T2T3_GS flexible,GTCA,TCCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0168.gb
+Ecoli Protein Expression Toolkit,ODC_0139,T1T2_CBD,CCAT,GTCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0139.gb
+Ecoli Protein Expression Toolkit,ODC_0129,BT1_Riboj54_F1,TACT,CCAT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0129.gb
+Ecoli Protein Expression Toolkit,ODC_0178,CD_RNAseInhibitor,AATG,AGGT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0178.gb
+Ecoli Protein Expression Toolkit,ODC_0158,BC_BCD12,TACT,AATG,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0158.gb
+Ecoli Protein Expression Toolkit,ODC_0119,CE_sarcGFP,AATG,GCTT,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0119.gb
+Ecoli Protein Expression Toolkit,ODC_0148,T1T3_GS flexible,CCAT,TCCA,CDS,,Ecoli Protein Expression Toolkit/Plasmids_Genbank/ODC_0148.gb
+Open Enzyme Collection,ODC_0083,UDG,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0083.gb
+Open Enzyme Collection,ODC_0070,T5 Exonuclease,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0070.gb
+Open Enzyme Collection,ODC_0021,"Bsu DNA Polymerase I, Large Fragment",AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0021.gb
+Open Enzyme Collection,ODC_0015,Pyrococcus Sp. Heat-Stable DNA Polymerase (Deep Vent™ at NEB),AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0015.gb
+Open Enzyme Collection,ODC_0044,MMLV_RT (lack H),AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0044.gb
+Open Enzyme Collection,ODC_0054,M2.SapI methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0054.gb
+Open Enzyme Collection,ODC_0031,DNA Ligase IV,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0031.gb
+Open Enzyme Collection,ODC_0060,SfiI methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0060.gb
+Open Enzyme Collection,ODC_0040,EcoRI methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0040.gb
+Open Enzyme Collection,ODC_0011,KlenTaq1 polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0011.gb
+Open Enzyme Collection,ODC_0087,Exonuclease III E. coli,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0087.gb
+Open Enzyme Collection,ODC_0025,T4 DNA Polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0025.gb
+Open Enzyme Collection,ODC_0074,T4 PNK,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0074.gb
+Open Enzyme Collection,ODC_0064,NcoI methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0064.gb
+Open Enzyme Collection,ODC_0035,T4 RNA Ligase 1,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0035.gb
+Open Enzyme Collection,ODC_0050,Eco31IA methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0050.gb
+Open Enzyme Collection,ODC_0041,PstI,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0041.gb
+Open Enzyme Collection,ODC_0010,E. coli DNA Polymerase I,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0010.gb
+Open Enzyme Collection,ODC_0086,Endonuclease VIII E. coli,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0086.gb
+Open Enzyme Collection,ODC_0024,Sulfolobus DNA Polymerase IV,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0024.gb
+Open Enzyme Collection,ODC_0075,T4 BGT,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0075.gb
+Open Enzyme Collection,ODC_0065,HindIII,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0065.gb
+Open Enzyme Collection,ODC_0034,Taq DNA Ligase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0034.gb
+Open Enzyme Collection,ODC_0051,Eco31IB methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0051.gb
+Open Enzyme Collection,ODC_0082,lambda red operon,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0082.gb
+Open Enzyme Collection,ODC_0071,HiFi Tth DNA Ligase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0071.gb
+Open Enzyme Collection,ODC_0020,"Bst DNA Polymerase, Large Fragment",AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0020.gb
+Open Enzyme Collection,ODC_0014,Pyrococcus Sp. Heat-Stable (exo–) DNA Polymerase (Deep Vent™ (exo–) DNA Polymerase at NEB),AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0014.gb
+Open Enzyme Collection,ODC_0045,Thermus thermophilus (Tth) RT,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0045.gb
+Open Enzyme Collection,ODC_0055,XbaI,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0055.gb
+Open Enzyme Collection,ODC_0030,DNA Lligase III,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0030.gb
+Open Enzyme Collection,ODC_0061,EcoRV,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0061.gb
+Open Enzyme Collection,ODC_0013,Pwo DNA Polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0013.gb
+Open Enzyme Collection,ODC_0042,PstI methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0042.gb
+Open Enzyme Collection,ODC_0076,T7 Endonuclease I,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0076.gb
+Open Enzyme Collection,ODC_0027,T5 DNA Polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0027.gb
+Open Enzyme Collection,ODC_0085,Endonuclease IV E. coli,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0085.gb
+Open Enzyme Collection,ODC_0037,RNAse A,,,,No edges found,Open Enzyme Collection/Plasmids_Genbank/ODC_0037.gb
+Open Enzyme Collection,ODC_0066,HindIII methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0066.gb
+Open Enzyme Collection,ODC_0052,SapI,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0052.gb
+Open Enzyme Collection,ODC_0023,9°N-7 DNA Polymerase chain terminating (NEB > Therminator DNA Pol),AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0023.gb
+Open Enzyme Collection,ODC_0072,Dm dNK,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0072.gb
+Open Enzyme Collection,ODC_0081,DNA Topoisomerase 1B (Vaccinia Virus),AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0081.gb
+Open Enzyme Collection,ODC_0046,T3 RNA Polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0046.gb
+Open Enzyme Collection,ODC_0017,Tli DNA polymerase (exo-)(available from NEB as VentR® (exo-) DNA Polymerase),AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0017.gb
+Open Enzyme Collection,ODC_0007,9°N-7 DNA polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0007.gb
+Open Enzyme Collection,ODC_0056,XbaI methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0056.gb
+Open Enzyme Collection,ODC_0062,EcoRV methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0062.gb
+Open Enzyme Collection,ODC_0033,Pfu DNA Ligase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0033.gb
+Open Enzyme Collection,ODC_0022,phi29 DNA Polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0022.gb
+Open Enzyme Collection,ODC_0073,TEV protease,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0073.gb
+Open Enzyme Collection,ODC_0080,Terminal transferase TdT (Bovine DNTT),AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0080.gb
+Open Enzyme Collection,ODC_0047,T7 RNA Polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0047.gb
+Open Enzyme Collection,ODC_0016,Taq DNA Polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0016.gb
+Open Enzyme Collection,ODC_0057,NotI,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0057.gb
+Open Enzyme Collection,ODC_0063,NcoI,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0063.gb
+Open Enzyme Collection,ODC_0032,9 Degrees North DNA Ligase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0032.gb
+Open Enzyme Collection,ODC_0012,KOD DNA polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0012.gb
+Open Enzyme Collection,ODC_0043,MMLV_RT (mut H),AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0043.gb
+Open Enzyme Collection,ODC_0077,T4 Endonuclease V (T4 PDG),AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0077.gb
+Open Enzyme Collection,ODC_0026,T7 DNA Polymerase (unmodified),AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0026.gb
+Open Enzyme Collection,ODC_0084,Fpg,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0084.gb
+Open Enzyme Collection,ODC_0036,CIP (calf intestinal phosphatase),AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0036.gb
+Open Enzyme Collection,ODC_0067,DpnI,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0067.gb
+Open Enzyme Collection,ODC_0053,M1.SapI methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0053.gb
+Open Enzyme Collection,ODC_0019,"Bst DNA Polymerase, Full Length",AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0019.gb
+Open Enzyme Collection,ODC_0048,SP6 RNA Polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0048.gb
+Open Enzyme Collection,ODC_0058,NotI methyltransferase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0058.gb
+Open Enzyme Collection,ODC_0009,"DNA Polymerase I, Large (Klenow) Fragment (3′→5′ exo-)",AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0009.gb
+Open Enzyme Collection,ODC_0029,E. coli DNA Ligase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0029.gb
+Open Enzyme Collection,ODC_0078,T4 g32,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0078.gb
+Open Enzyme Collection,ODC_0068,Bst HF,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0068.gb
+Open Enzyme Collection,ODC_0039,EcoRI,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0039.gb
+Open Enzyme Collection,ODC_0028,T4-DNA Ligase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0028.gb
+Open Enzyme Collection,ODC_0079,P45,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0079.gb
+Open Enzyme Collection,ODC_0069,ET SSB,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0069.gb
+Open Enzyme Collection,ODC_0038,RNAse H,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0038.gb
+Open Enzyme Collection,ODC_0018,Tth DNA polymerase,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0018.gb
+Open Enzyme Collection,ODC_0049,Eco31I,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0049.gb
+Open Enzyme Collection,ODC_0059,SfiI,AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0059.gb
+Open Enzyme Collection,ODC_0008,"DNA Polymerase I, Large (Klenow) Fragment",AATG,GCTT,CDS,,Open Enzyme Collection/Plasmids_Genbank/ODC_0008.gb
+Open Plasmids,ODC_0005,pTiR,GGAG,CGCT,misc_feature,,Open Plasmids/Plasmids_Genbank/ODC_0005.gb
+Open Plasmids,ODC_0001,pInducible/pOpen_v4,,,,No edges found,Open Plasmids/Plasmids_Genbank/ODC_0001.gb
+Open Plasmids,ODC_0004,pTi,GGAG,CGCT,re_site,,Open Plasmids/Plasmids_Genbank/ODC_0004.gb
+Open Plasmids,ODC_0003,pYeast/pOpen_yeast,,,,No edges found,Open Plasmids/Plasmids_Genbank/ODC_0003.gb
+Open Plasmids,ODC_0006,pTiER,GGAG,CGCT,misc_feature,,Open Plasmids/Plasmids_Genbank/ODC_0006.gb
+Open Plasmids,ODC_0002,pBuild/pOpen_v3,,,,No edges found,Open Plasmids/Plasmids_Genbank/ODC_0002.gb
+Bacillus subtilis Protein Secretion Toolkit,ODC_0336,BsubSecTagLP_6,,,,Multiple edges found,Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0336.gb
+Bacillus subtilis Protein Secretion Toolkit,ODC_0332,BsubSecTagLP_2,,,,Multiple edges found,Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0332.gb
+Bacillus subtilis Protein Secretion Toolkit,ODC_0333,BsubSecTagLP_3,,,,Multiple edges found,Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0333.gb
+Bacillus subtilis Protein Secretion Toolkit,ODC_0334,BsubSecTagLP_4,,,,Multiple edges found,Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0334.gb
+Bacillus subtilis Protein Secretion Toolkit,ODC_0335,BsubSecTagLP_5,,,,Multiple edges found,Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0335.gb
+Bacillus subtilis Protein Secretion Toolkit,ODC_0331,BsubSecTagLP_1,,,,Multiple edges found,Bacillus subtilis Protein Secretion Toolkit/Plasmids_Genbank/ODC_0331.gb

@@ -1,16 +1,6 @@
 [
     {
         "collection":"Ecoli Nanobody Toolkit",
-        "id":"T3C_Linker14",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/T3C_Linker14.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
         "id":"BC_RJ_SD8",
         "plasmid_name":null,
         "left_overhang":"TACT",
@@ -31,36 +21,6 @@
     },
     {
         "collection":"Ecoli Nanobody Toolkit",
-        "id":"EF_TermT7",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/EF_TermT7.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"CD_eGFP",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/CD_eGFP.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"T1T3_T7Nwt_STOP",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/T1T3_T7Nwt_STOP.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
         "id":"BT1_RJ_B34_6H_TEVc",
         "plasmid_name":null,
         "left_overhang":"TACT",
@@ -78,36 +38,6 @@
         "longest_feature_type":"misc_feature",
         "info":null,
         "path":"Ecoli Nanobody Toolkit\/genbank_seq\/CD_ZB.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"T4T5_T7Cwt_STOP",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/T4T5_T7Cwt_STOP.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"CD_NbLag2 (eGFP)",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/CD_NbLag2 (eGFP).gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"CD_NbVHHV",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/CD_NbVHHV.gb"
     },
     {
         "collection":"Ecoli Nanobody Toolkit",
@@ -141,16 +71,6 @@
     },
     {
         "collection":"Ecoli Nanobody Toolkit",
-        "id":"CD_NbVHHE",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/CD_NbVHHE.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
         "id":"AB_araCpBADv3",
         "plasmid_name":null,
         "left_overhang":"GGAG",
@@ -158,26 +78,6 @@
         "longest_feature_type":"misc_feature",
         "info":null,
         "path":"Ecoli Nanobody Toolkit\/genbank_seq\/AB_araCpBADv3.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"DT4_Linker14",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/DT4_Linker14.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"CD_NbB1",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/CD_NbB1.gb"
     },
     {
         "collection":"Ecoli Nanobody Toolkit",
@@ -271,36 +171,6 @@
     },
     {
         "collection":"Ecoli Nanobody Toolkit",
-        "id":"BC_RBS_UTRcfps",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/BC_RBS_UTRcfps.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"BT1_RBS_UTRcfps",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/BT1_RBS_UTRcfps.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"T1T3_T7Nev",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/T1T3_T7Nev.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
         "id":"AB_pKatPu",
         "plasmid_name":null,
         "left_overhang":"GGAG",
@@ -318,36 +188,6 @@
         "longest_feature_type":"syntax",
         "info":null,
         "path":"Ecoli Nanobody Toolkit\/genbank_seq\/DT4_MLinkerC.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"T3C_Linker28",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/T3C_Linker28.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"DT4_Linker7",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/DT4_Linker7.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"T3C_Linker7",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/T3C_Linker7.gb"
     },
     {
         "collection":"Ecoli Nanobody Toolkit",
@@ -421,26 +261,6 @@
     },
     {
         "collection":"Ecoli Nanobody Toolkit",
-        "id":"CD_W276",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/CD_W276.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"AB_pBAD",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/AB_pBAD.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
         "id":"AB_araCpBAD",
         "plasmid_name":null,
         "left_overhang":"GGAG",
@@ -448,16 +268,6 @@
         "longest_feature_type":"misc_feature",
         "info":null,
         "path":"Ecoli Nanobody Toolkit\/genbank_seq\/AB_araCpBAD.gb"
-    },
-    {
-        "collection":"Ecoli Nanobody Toolkit",
-        "id":"CD_NbLag14 (eGFP)",
-        "plasmid_name":null,
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Ecoli Nanobody Toolkit\/genbank_seq\/CD_NbLag14 (eGFP).gb"
     },
     {
         "collection":"Ecoli Nanobody Toolkit",
@@ -770,236 +580,6 @@
         "path":"Open Reporters Collection\/Plasmids_Genbank\/ODC_0109.gb"
     },
     {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0219",
-        "plasmid_name":"Pfu_Ssod7 HiFi",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0219.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0239",
-        "plasmid_name":"TEV",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0239.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0229",
-        "plasmid_name":"orfB3",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0229.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0238",
-        "plasmid_name":"EcRNAseH",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0238.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0228",
-        "plasmid_name":"orfA2",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0228.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0218",
-        "plasmid_name":"MERScontrol",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0218.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0237",
-        "plasmid_name":"TthRNAseH",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0237.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0227",
-        "plasmid_name":"orfA1",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0227.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0233",
-        "plasmid_name":"Bst-LF",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0233.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0223",
-        "plasmid_name":"OMMLV",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0223.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0232",
-        "plasmid_name":"SARSContol",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0232.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0222",
-        "plasmid_name":"HIVRT",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0222.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0236",
-        "plasmid_name":"PBCV-1_ligase",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0236.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0226",
-        "plasmid_name":"EcPPA",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0226.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0231",
-        "plasmid_name":"orfN5",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0231.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0221",
-        "plasmid_name":"Ecoli_opt_RNAseInhib",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0221.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0235",
-        "plasmid_name":"UvsX",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0235.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0225",
-        "plasmid_name":"RNAseInhib",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0225.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0234",
-        "plasmid_name":"Bsu",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0234.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0224",
-        "plasmid_name":"OpenVent",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0224.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0230",
-        "plasmid_name":"orfE4",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0230.gb"
-    },
-    {
-        "collection":"Molecular Diagnostics Toolkit",
-        "id":"ODC_0220",
-        "plasmid_name":"gp32",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Molecular Diagnostics Toolkit\/Plasmids_Genbank\/ODC_0220.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0318",
-        "plasmid_name":"ScKanR-marker",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0318.gb"
-    },
-    {
         "collection":"Open Yeast Collection",
         "id":"ODC_0258",
         "plasmid_name":"AB_Pp-pAOX1",
@@ -1021,16 +601,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0308",
-        "plasmid_name":"PpHR3'-ENO",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0308.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0268",
         "plasmid_name":"limonene-3-hydroxylase",
         "left_overhang":"AATG",
@@ -1038,26 +608,6 @@
         "longest_feature_type":"protein_bind",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0268.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0328",
-        "plasmid_name":"OYC-high-copy-origin",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0328.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0278",
-        "plasmid_name":"Sc-tENO2",
-        "left_overhang":"GCTT",
-        "right_overhang":"CGCT",
-        "longest_feature_type":null,
-        "info":"No features found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0278.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1071,16 +621,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0329",
-        "plasmid_name":"OYC-eforRed-dropout",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0329.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0279",
         "plasmid_name":"Sc-tPRM9",
         "left_overhang":"GCTT",
@@ -1088,16 +628,6 @@
         "longest_feature_type":"terminator",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0279.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0319",
-        "plasmid_name":"ScLEU2-marker",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0319.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1121,26 +651,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0309",
-        "plasmid_name":"PpHR5'-AOXTT",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0309.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0312",
-        "plasmid_name":"ScARS_CEN",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0312.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0252",
         "plasmid_name":"Sc-pTDH3",
         "left_overhang":"GGAG",
@@ -1158,36 +668,6 @@
         "longest_feature_type":"protein_bind",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0266.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0326",
-        "plasmid_name":"OYC-CamR",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0326.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0295",
-        "plasmid_name":"AConR-end",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0295.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0285",
-        "plasmid_name":"AConL1",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0285.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1211,16 +691,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0302",
-        "plasmid_name":"ScHR3'-HO",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0302.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0262",
         "plasmid_name":"Cre",
         "left_overhang":"AATG",
@@ -1228,36 +698,6 @@
         "longest_feature_type":"protein_bind",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0262.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0322",
-        "plasmid_name":"ScURA3-marker",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0322.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0291",
-        "plasmid_name":"AConR2",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0291.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0316",
-        "plasmid_name":"ScHIS3-marker",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0316.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1278,16 +718,6 @@
         "longest_feature_type":"promoter",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0246.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0306",
-        "plasmid_name":"PpHR3'-RGI2",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0306.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1321,36 +751,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0323",
-        "plasmid_name":"ScZeo-marker",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0323.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0290",
-        "plasmid_name":"AConR1",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0290.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0317",
-        "plasmid_name":"ScHygro-marker",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0317.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0257",
         "plasmid_name":"AB_Pp-pGAP",
         "left_overhang":"GGAG",
@@ -1368,16 +768,6 @@
         "longest_feature_type":"promoter",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0247.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0307",
-        "plasmid_name":"PpHR5'-ENO",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0307.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1401,16 +791,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0313",
-        "plasmid_name":"Pichia PARS",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0313.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0253",
         "plasmid_name":"Sc-pTrp1",
         "left_overhang":"GGAG",
@@ -1428,36 +808,6 @@
         "longest_feature_type":"protein_bind",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0267.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0327",
-        "plasmid_name":"OYC-SpecR",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0327.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0294",
-        "plasmid_name":"AConR5",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0294.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0284",
-        "plasmid_name":"AConL-start",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0284.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1481,26 +831,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0303",
-        "plasmid_name":"PpHR5'-NTS",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0303.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0293",
-        "plasmid_name":"AConR4",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0293.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0260",
         "plasmid_name":"ScMET17",
         "left_overhang":"AATG",
@@ -1508,26 +838,6 @@
         "longest_feature_type":"protein_bind",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0260.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0320",
-        "plasmid_name":"ScNAT-marker",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0320.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0314",
-        "plasmid_name":"oriT",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0314.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1551,26 +861,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0304",
-        "plasmid_name":"PpHR3'-NTS",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0304.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0330",
-        "plasmid_name":"pWV01-ori",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0330.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0270",
         "plasmid_name":"carveol dehydrogenase",
         "left_overhang":"AATG",
@@ -1578,26 +868,6 @@
         "longest_feature_type":"protein_bind",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0270.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0283",
-        "plasmid_name":"AConL-start-rev",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0283.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0310",
-        "plasmid_name":"PpHR3'-AOXTT",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0310.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1611,16 +881,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0297",
-        "plasmid_name":"ScHR5'-LEU2",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0297.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0264",
         "plasmid_name":"GPP synthase",
         "left_overhang":"AATG",
@@ -1628,16 +888,6 @@
         "longest_feature_type":"protein_bind",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0264.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0324",
-        "plasmid_name":"OYC-bridge-AGAC-CGAA",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0324.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1651,16 +901,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0287",
-        "plasmid_name":"AConL3",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0287.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0240",
         "plasmid_name":"Sc-pAdh1",
         "left_overhang":"GGAG",
@@ -1668,26 +908,6 @@
         "longest_feature_type":"promoter",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0240.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0300",
-        "plasmid_name":"ScHR3'-URA3",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0300.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0311",
-        "plasmid_name":"Sc2micron",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0311.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1701,16 +921,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0296",
-        "plasmid_name":"AConR-end-rev",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0296.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0265",
         "plasmid_name":"GGPP synthase",
         "left_overhang":"AATG",
@@ -1718,16 +928,6 @@
         "longest_feature_type":"protein_bind",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0265.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0325",
-        "plasmid_name":"OYC-bridge-AGAC-GCAA",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0325.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1741,16 +941,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0286",
-        "plasmid_name":"AConL2",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0286.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0241",
         "plasmid_name":"Sc-pCCW12",
         "left_overhang":"GGAG",
@@ -1761,26 +951,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0301",
-        "plasmid_name":"ScHR5'-HO",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0301.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0292",
-        "plasmid_name":"AConR3",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0292.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0261",
         "plasmid_name":"ScAUR1",
         "left_overhang":"AATG",
@@ -1788,26 +958,6 @@
         "longest_feature_type":"protein_bind",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0261.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0321",
-        "plasmid_name":"ScTRP1-marker",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0321.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0315",
-        "plasmid_name":"ScADE2-marker",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0315.gb"
     },
     {
         "collection":"Open Yeast Collection",
@@ -1831,16 +981,6 @@
     },
     {
         "collection":"Open Yeast Collection",
-        "id":"ODC_0305",
-        "plasmid_name":"PpHR5'-RGI2",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0305.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
         "id":"ODC_0271",
         "plasmid_name":"ScGal4-DNA-AD",
         "left_overhang":"TCCA",
@@ -1858,46 +998,6 @@
         "longest_feature_type":"terminator",
         "info":null,
         "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0282.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0299",
-        "plasmid_name":"ScHR5'-URA3",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0299.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0289",
-        "plasmid_name":"AConL5",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0289.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0298",
-        "plasmid_name":"ScHR3'-LEU2",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0298.gb"
-    },
-    {
-        "collection":"Open Yeast Collection",
-        "id":"ODC_0288",
-        "plasmid_name":"AConL4",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Yeast Collection\/Plasmids_Genbank\/ODC_0288.gb"
     },
     {
         "collection":"Ecoli Protein Expression Toolkit",
@@ -2241,16 +1341,6 @@
     },
     {
         "collection":"Ecoli Protein Expression Toolkit",
-        "id":"ODC_0187",
-        "plasmid_name":"CD_SUMO_protease",
-        "left_overhang":"AATG",
-        "right_overhang":"AGGT",
-        "longest_feature_type":null,
-        "info":"No features found",
-        "path":"Ecoli Protein Expression Toolkit\/Plasmids_Genbank\/ODC_0187.gb"
-    },
-    {
-        "collection":"Ecoli Protein Expression Toolkit",
         "id":"ODC_0140",
         "plasmid_name":"T1T2_Cex",
         "left_overhang":"CCAT",
@@ -2298,16 +1388,6 @@
         "longest_feature_type":"CDS",
         "info":null,
         "path":"Ecoli Protein Expression Toolkit\/Plasmids_Genbank\/ODC_0160.gb"
-    },
-    {
-        "collection":"Ecoli Protein Expression Toolkit",
-        "id":"ODC_0154",
-        "plasmid_name":"BC_B0032",
-        "left_overhang":"TACT",
-        "right_overhang":"AATG",
-        "longest_feature_type":null,
-        "info":"No features found",
-        "path":"Ecoli Protein Expression Toolkit\/Plasmids_Genbank\/ODC_0154.gb"
     },
     {
         "collection":"Ecoli Protein Expression Toolkit",
@@ -3281,16 +2361,6 @@
     },
     {
         "collection":"Open Enzyme Collection",
-        "id":"ODC_0037",
-        "plasmid_name":"RNAse A",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Enzyme Collection\/Plasmids_Genbank\/ODC_0037.gb"
-    },
-    {
-        "collection":"Open Enzyme Collection",
         "id":"ODC_0066",
         "plasmid_name":"HindIII methyltransferase",
         "left_overhang":"AATG",
@@ -3731,16 +2801,6 @@
     },
     {
         "collection":"Open Plasmids",
-        "id":"ODC_0001",
-        "plasmid_name":"pInducible\/pOpen_v4",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Plasmids\/Plasmids_Genbank\/ODC_0001.gb"
-    },
-    {
-        "collection":"Open Plasmids",
         "id":"ODC_0004",
         "plasmid_name":"pTi",
         "left_overhang":"GGAG",
@@ -3751,16 +2811,6 @@
     },
     {
         "collection":"Open Plasmids",
-        "id":"ODC_0003",
-        "plasmid_name":"pYeast\/pOpen_yeast",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Plasmids\/Plasmids_Genbank\/ODC_0003.gb"
-    },
-    {
-        "collection":"Open Plasmids",
         "id":"ODC_0006",
         "plasmid_name":"pTiER",
         "left_overhang":"GGAG",
@@ -3768,75 +2818,5 @@
         "longest_feature_type":"misc_feature",
         "info":null,
         "path":"Open Plasmids\/Plasmids_Genbank\/ODC_0006.gb"
-    },
-    {
-        "collection":"Open Plasmids",
-        "id":"ODC_0002",
-        "plasmid_name":"pBuild\/pOpen_v3",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"No edges found",
-        "path":"Open Plasmids\/Plasmids_Genbank\/ODC_0002.gb"
-    },
-    {
-        "collection":"Bacillus subtilis Protein Secretion Toolkit",
-        "id":"ODC_0336",
-        "plasmid_name":"BsubSecTagLP_6",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"Multiple edges found",
-        "path":"Bacillus subtilis Protein Secretion Toolkit\/Plasmids_Genbank\/ODC_0336.gb"
-    },
-    {
-        "collection":"Bacillus subtilis Protein Secretion Toolkit",
-        "id":"ODC_0332",
-        "plasmid_name":"BsubSecTagLP_2",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"Multiple edges found",
-        "path":"Bacillus subtilis Protein Secretion Toolkit\/Plasmids_Genbank\/ODC_0332.gb"
-    },
-    {
-        "collection":"Bacillus subtilis Protein Secretion Toolkit",
-        "id":"ODC_0333",
-        "plasmid_name":"BsubSecTagLP_3",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"Multiple edges found",
-        "path":"Bacillus subtilis Protein Secretion Toolkit\/Plasmids_Genbank\/ODC_0333.gb"
-    },
-    {
-        "collection":"Bacillus subtilis Protein Secretion Toolkit",
-        "id":"ODC_0334",
-        "plasmid_name":"BsubSecTagLP_4",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"Multiple edges found",
-        "path":"Bacillus subtilis Protein Secretion Toolkit\/Plasmids_Genbank\/ODC_0334.gb"
-    },
-    {
-        "collection":"Bacillus subtilis Protein Secretion Toolkit",
-        "id":"ODC_0335",
-        "plasmid_name":"BsubSecTagLP_5",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"Multiple edges found",
-        "path":"Bacillus subtilis Protein Secretion Toolkit\/Plasmids_Genbank\/ODC_0335.gb"
-    },
-    {
-        "collection":"Bacillus subtilis Protein Secretion Toolkit",
-        "id":"ODC_0331",
-        "plasmid_name":"BsubSecTagLP_1",
-        "left_overhang":null,
-        "right_overhang":null,
-        "longest_feature_type":null,
-        "info":"Multiple edges found",
-        "path":"Bacillus subtilis Protein Secretion Toolkit\/Plasmids_Genbank\/ODC_0331.gb"
     }
 ]
