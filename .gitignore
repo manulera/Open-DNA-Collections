@@ -3,4 +3,3 @@
 *.pickle
 *.old
 credentials*
-.venv/
