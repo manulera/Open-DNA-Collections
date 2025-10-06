@@ -7,6 +7,11 @@ from Bio import BiopythonParserWarning
 import yaml
 import pandas as pd
 import networkx as nx
+from opencloning_linkml.datamodel.models import (
+    OpenDNACollectionsSource,
+    RepositoryIdSource,
+)
+import json
 
 # Supress BiopythonParserWarning:
 import warnings
@@ -105,11 +110,54 @@ df = df[
 df.to_csv("summary.csv", index=False)
 df.to_json("index.json", indent=4, orient="records")
 
-df = df[df["info"].isna()]
-df.to_json("index_overhangs.json", indent=4, orient="records")
+df2 = df[df["info"].isna()]
+# Drop info column
+df2 = df2.drop(columns=["info"])
+
+# Turn into OpenCloning sources
+sources = {}
+for index, entry in df2.iterrows():
+    if entry["id"] in sources:
+        raise ValueError(f"Duplicate id: {entry['id']}")
+    sources[entry["id"]] = OpenDNACollectionsSource(
+        id=0,
+        input=[],
+        repository_name="open_dna_collections",
+        repository_id=entry["collection"] + "/" + entry["id"],
+        sequence_file_url=(
+            "https://assets.opencloning.org/open-dna-collections/" + entry["path"]
+        ).replace(" ", "%20"),
+    ).model_dump()
+
+df2["source"] = df2["id"].map(sources)
+
+# Add backbone plasmids to df2
+backbones = pd.read_csv("backbones.csv")
+add_to_df2 = []
+for index, row in backbones.iterrows():
+    add_to_df2.append(
+        {
+            "collection": "backbones",
+            "id": row["plasmid_name"],
+            "plasmid_name": row["plasmid_name"],
+            "left_overhang": "CGCT",
+            "right_overhang": "GGAG",
+            "longest_feature_type": None,
+            "path": None,
+            "source": RepositoryIdSource(
+                id=0,
+                input=[],
+                repository_name="genbank",
+                output_name=row["plasmid_name"],
+                repository_id=row["genbank_id"],
+            ).model_dump(),
+        }
+    )
+df2 = pd.concat([df2, pd.DataFrame(add_to_df2)])
+df2.to_json("index_overhangs.json", indent=4, orient="records")
 
 # Get all possible pairs of overhangs
-pairs = list(set(df["left_overhang"] + "|" + df["right_overhang"]))
+pairs = list(set(df2["left_overhang"] + "|" + df2["right_overhang"]))
 
 G = nx.DiGraph()
 G.add_nodes_from(overhangs)
@@ -119,10 +167,3 @@ for pair in pairs:
 
 # Get all linear paths from the first to the last node
 paths = list(nx.all_simple_paths(G, source=overhangs[0], target=overhangs[-1]))
-
-# Print unique values of longest_feature_type and collection
-print("\nUnique longest feature types:")
-print(df["longest_feature_type"].unique())
-
-print("\nUnique collections:")
-print(df["collection"].unique())
