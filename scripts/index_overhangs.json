@@ -5862,8 +5862,8 @@
         "collection":"Open Plasmids",
         "id":"ODC_0005",
         "plasmid_name":"pTiR",
-        "left_overhang":"GGAG",
-        "right_overhang":"CGCT",
+        "left_overhang":"CGCT",
+        "right_overhang":"GGAG",
         "longest_feature_type":"misc_feature",
         "path":"Open Plasmids\/Plasmids_Genbank\/ODC_0005.gb",
         "source":{
@@ -5883,8 +5883,8 @@
         "collection":"Open Plasmids",
         "id":"ODC_0004",
         "plasmid_name":"pTi",
-        "left_overhang":"GGAG",
-        "right_overhang":"CGCT",
+        "left_overhang":"CGCT",
+        "right_overhang":"GGAG",
         "longest_feature_type":"re_site",
         "path":"Open Plasmids\/Plasmids_Genbank\/ODC_0004.gb",
         "source":{
@@ -5904,8 +5904,8 @@
         "collection":"Open Plasmids",
         "id":"ODC_0006",
         "plasmid_name":"pTiER",
-        "left_overhang":"GGAG",
-        "right_overhang":"CGCT",
+        "left_overhang":"CGCT",
+        "right_overhang":"GGAG",
         "longest_feature_type":"misc_feature",
         "path":"Open Plasmids\/Plasmids_Genbank\/ODC_0006.gb",
         "source":{

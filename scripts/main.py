@@ -154,6 +154,16 @@ for index, row in backbones.iterrows():
         }
     )
 df2 = pd.concat([df2, pd.DataFrame(add_to_df2)])
+# Reassing AF backbones
+backbone_names = ["pTi", "pTiR", "pTiER"]
+for backbone in backbone_names:
+    df2.loc[df2["plasmid_name"] == backbone, ["left_overhang", "right_overhang"]] = (
+        df2.loc[
+            df2["plasmid_name"] == backbone, ["right_overhang", "left_overhang"]
+        ].values
+    )
+
+
 df2.to_json("index_overhangs.json", indent=4, orient="records")
 
 # Get all possible pairs of overhangs
